@@ -1,21 +1,23 @@
 # Site settings
-title: NSF BRIDGES, Building Resources for InterDisciplinary training in Genomic and Ecosystem Sciences
-email: bridgesNRT@arizona.edu
+title: Your Title Here
 description: > # this means to ignore newlines until "baseurl:"
-   A graduate fellowship and training program at the University of Arizona
-#url: "https://ecosystem-genomics.github.io"
+baseurl: "/creative-theme-jekyll-new/" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+author: Copyright &copy; 2019 - Start Bootstrap
+lang: en_US
 
 # Build settings
+safe: true # always trues on github-pages, disables _plugins/
 markdown: kramdown
-
-assets:
-  sources:
-    - assets/fonts
-    - assets/images
-    - assets/js
-    - assets/css
-
-gems:
-  - jekyll-assets
-
-theme: jekyll-theme-time-machine 
+sass:
+  indentWidth: 4
+  style: compressed
+  precision: 10
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - build-in-docker.sh
+  - README.md
