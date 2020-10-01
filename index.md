@@ -1,10 +1,10 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: BRIDGES 
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Building Resources for InterDisciplinary training in Genomic 
+    and Ecosystem Sciences (BRIDGES); an NSF Training Grant 
   action: # action button is optional
     label: Find Out More
     url: '#about'
@@ -14,17 +14,17 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: A Graduate Fellowship and Training Program at the University of AZ 
+    text: Ecosystem genomics promises new knowledge to sustain the biological systems that support, interact with, and are disrupted by human society, such as the agroecosystems that supply food to the world -- and, more generally, the plants, microbes, and insects that shape local, regional, and global cycles of energy, water, and carbon in both natural and managed ecosystems. 
     actions:
-      - title: Get Started!
-        url: '#page-top'
+      - title: Apply!
+        url: '#apply'
         class: btn-light
 
-  - type: services.html
-    section_id: services
+  - type: program-elements.html
+    section_id: program 
     #background_style: bg-info
-    title: At Your Service
+    title: Program Elements 
     services:
       - title: Sturdy Templates
         text: Our templates are updated regularly so they don't break.
@@ -89,19 +89,19 @@ sections:
 
   - type: members.html
     section_id: members
-    title: Our Crew!
+    title: Our Faculty 
     background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
+      - title: Scott Saleska, Ph.D.
+        text: Associate Professor, EEB 
         image: assets/img/members/person1.jpg
         url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
+      - title: Elizabeth (Betsy) Arnold, Ph.D. 
+        text: Professor, Plant Sciences 
         image: assets/img/members/person2.jpg
         url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
+      - title: Bonnie Hurwitz, Ph.D. 
+        text: Associate Professor, Biosystems Engineering 
         image: assets/img/members/person3.jpg
         url: '#'
       - title: Todd E. Anderson
@@ -140,16 +140,16 @@ sections:
 
   - type: contact.html
     section_id: contacts
-    title: Let's Get In Touch!
+    title: Get In Touch!
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
+      Ready to apply? Call or send us an email
       and we will get back to you as soon as possible!
     actions:
     - title: +1 (202) 555-014
       icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:contact@yourwebsite.com
+      url: mailto:ecosystemgenomics@gmail.com
     - title: Twitter
       icon: fa-twitter
       icon_type: fab
