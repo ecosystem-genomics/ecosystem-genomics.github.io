@@ -21,99 +21,108 @@ sections:
         url: '#apply'
         class: btn-light
 
-  - type: program-elements.html
-    section_id: program 
+  - type: programs.html
+    section_id: programs 
     #background_style: bg-info
-    title: Program Elements 
-    services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
+    title: Graduate Programs 
+    programs:
+      - title: EEB 
+        text: Ecology and Evolutionary Biology 
         icon: fa-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
+        url: https://eeb.arizona.edu/ 
+      - title: SPLS
+        text: Plant Sciences/Plant Pathology 
         icon: fa-paper-plane
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
+        url: https://cals.arizona.edu/spls/home
+      - title: BE 
+        text: Biosystems Engineering 
         icon: fa-laptop-code
-      - title: Made with Love
-        text: You have to make your websites with love these days!
+        url: https://be.arizona.edu/
+      - title: ENVS 
+        text: Environmental Science 
         icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
+        url: https://environmentalscience.cals.arizona.edu/
+      - title: EIS 
+        text: Entomology and Insect Science 
         icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
+        url: https://cals.arizona.edu/ento/
+      - title: SNRE 
+        text: Natural Resources and the Environment 
         icon: fa-heart
+        url: https://snre.arizona.edu/
+      - title: HAS 
+        text: Hydrology and Atmospheric Science 
+        icon: fa-heart
+        url: https://has.arizona.edu/
 
-  - type: portfolio.html
-    # this section has always ID 'portfolio'
-    #section_id: portfolio
+  - type: elements.html
+    # this section has always ID 'elements'
+    #section_id: elements 
     #background_style: bg-dark
-    projects:
-      - title: Project 1
-        text: This is a very short project description.
+    elements:
+      - title: Diversity 
+        text: Diversity & Inclusion 
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
         url: '#'
-      - title: Project 2
-        text: This is a very short project description.
+      - title: Graduate Courses 
+        text: Courses for a PhD in Ecosystem Genomics  
         icon: 2.jpg
         url: '#'
-      - title: Project 3
-        text: This is a very short project description.
+      - title: Certificate & PhD minor 
+        text: MS Certificate and PhD GIDP minor 
         icon: 3.jpg
         url: '#'
-      - title: Project 4
-        text: This is a very short project description.
+      - title: Internships 
+        text: Internships in academia and industry. 
         icon: 4.jpg
         url: '#'
-      - title: Project 5
-        text: This is a very short project description.
+      - title: Professional Training & Mentorship 
+        text: mentored mentoring and professional training 
         icon: 5.jpg
         url: '#'
-      - title: Project 6
-        text: This is a very short project description.
+      - title: Convergence Institute 
+        text: Summer program and Convergence Institute 
         icon: 6.jpg
         url: '#'
 
-  - type: aside.html
-    section_id: aside
-    title: Free Download at Start Bootstrap!
+  - type: apply.html
+    section_id: apply 
+    title: Apply to the Graduate Fellowship and Training Program 
     actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
+      - title: Apply!
+        url: '#' 
         class: btn-light
 
-  - type: members.html
-    section_id: members
+  - type: faculty.html
+    section_id: faculty
     title: Our Faculty 
     background_style: bg-info text-white
-    members:
+    faculty:
       - title: Scott Saleska, Ph.D.
-        text: Associate Professor, EEB 
+        text: Professor, EEB 
         image: assets/img/members/person1.jpg
         url: '#'
       - title: Elizabeth (Betsy) Arnold, Ph.D. 
-        text: Professor, Plant Sciences 
+        text: Professor, SPLS 
         image: assets/img/members/person2.jpg
         url: '#'
       - title: Bonnie Hurwitz, Ph.D. 
-        text: Associate Professor, Biosystems Engineering 
+        text: Associate Professor, BE 
         image: assets/img/members/person3.jpg
         url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
+      - title: Rachel Gallery, Ph.D. 
+        text: Professor, SNRE 
         image: assets/img/members/person5.jpg
         url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
+      - title: Laura Meredith, Ph.D. 
+        text: Assistant Professor, SNRE 
         image: assets/img/members/person6.jpg
         url: '#'
-      - title: Ella P. Walter
-        text: PR.
+      - title: Jana U'Ren, Ph.D.
+        text: Assistant Professor, BE 
         image: assets/img/members/person7.jpg
         url: '#'
 
@@ -125,27 +134,26 @@ sections:
     actions:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
-          2017-2018
+          2020 
           **Humble Beginnings**
         text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
+          We begun with small interdisciplinary group of faculty interested 
+          in an emerging field in ecosystem genomics!
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
-          November 2019
-          An Coaching started
+          September 2020 
+          The training program started
         text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
+          We were funded for a graduate NRT by the NSF. 
+          As a result, we kicked our training program!
 
-  - type: contact.html
+  - type: contacts.html
     section_id: contacts
     title: Get In Touch!
     text: >-
-      Ready to apply? Call or send us an email
-      and we will get back to you as soon as possible!
+      Interested in our fellowship? Call or send us an email
     actions:
-    - title: +1 (202) 555-014
+    - title: +1 (520) 626-9819
       icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
