@@ -100,7 +100,7 @@ sections:
     section_id: members 
     title: Our Faculty 
     background_style: bg-info text-white
-    member:
+    members:
       - title: Scott Saleska, Ph.D.
         text: Professor, EEB 
         image: assets/img/members/person1.jpg
