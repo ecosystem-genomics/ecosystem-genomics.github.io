@@ -104,9 +104,11 @@ sections:
       - title: Scott Saleska
         text: Professor, EEB 
         image: assets/img/members/person1.jpg
+        url: http://hurwitzlab.org
       - title: Elizabeth (Betsy) Arnold
         text: Professor, SPLS 
         image: assets/img/members/person2.jpg
+        url: http://hurwitzlab.org
       - title: Bonnie Hurwitz
         text: Associate Professor, BE 
         image: assets/img/members/bonnie.jpg
@@ -114,12 +116,15 @@ sections:
       - title: Rachel Gallery
         text: Professor, SNRE 
         image: assets/img/members/person5.jpg
+        url: http://hurwitzlab.org
       - title: Laura Meredith
         text: Assistant Professor, SNRE 
         image: assets/img/members/person6.jpg
+        url: http://hurwitzlab.org
       - title: Jana U'Ren
         text: Assistant Professor, BE 
         image: assets/img/members/person7.jpg
+        url: http://hurwitzlab.org
 
   - type: timeline.html
     section_id: timeline
