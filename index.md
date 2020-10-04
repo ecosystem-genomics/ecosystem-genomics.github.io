@@ -18,14 +18,14 @@ sections:
     text: Ecosystem genomics promises new knowledge to sustain the biological systems that support, interact with, and are disrupted by human society, such as the agroecosystems that supply food to the world -- and, more generally, the plants, microbes, and insects that shape local, regional, and global cycles of energy, water, and carbon in both natural and managed ecosystems. 
     actions:
       - title: Apply!
-        url: '#apply'
+        url: '#page-top'
         class: btn-light
 
   - type: services.html
     section_id: services 
     #background_style: bg-info
     title: Graduate Programs 
-    service:
+    services:
       - title: EEB 
         text: Ecology and Evolutionary Biology 
         icon: fa-gem text-info
