@@ -4,8 +4,7 @@ header:
   title: BRIDGES 
   text: >
   Building Resources for InterDisciplinary training in Genomic
-  and Ecosystem Sciences (BRIDGES); an NSF Training Grant
-  
+  and Ecosystem Sciences (BRIDGES); an NSF Training Grant 
   action: # action button is optional
     label: Find Out More
     url: '#about'
@@ -14,7 +13,7 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: A Graduate Fellowship and Training Program at the University of AZ 
+    title: A Graduate Fellowship and Training Program at the University of AZ
     text: We offer competitive fellowships and diverse training opportunities for incoming MS and PhD students applying to seven graduate programs on the UArizona campus: Ecology and Evolutionary Biology (EEB), Plant Sciences/Plant Pathology (SPLS), Biosystems Engineering (BE), Entomology and Insect Science (EIS), Environmental Science (ENVS), Natural Resources and the Environment (SNRE), and Hydrology and Atmospheric Science (HAS).
     actions:
       - title: Apply!
