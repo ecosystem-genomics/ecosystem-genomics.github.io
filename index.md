@@ -101,22 +101,23 @@ sections:
     title: Our Faculty 
     background_style: bg-info text-white
     members:
-      - title: Scott Saleska, Ph.D.
+      - title: Scott Saleska
         text: Professor, EEB 
         image: assets/img/members/person1.jpg
-      - title: Elizabeth (Betsy) Arnold, Ph.D. 
+      - title: Elizabeth (Betsy) Arnold
         text: Professor, SPLS 
         image: assets/img/members/person2.jpg
-      - title: Bonnie Hurwitz, Ph.D. 
+      - title: Bonnie Hurwitz
         text: Associate Professor, BE 
         image: assets/img/members/person3.jpg
-      - title: Rachel Gallery, Ph.D. 
+        url: 'http://hurwitzlab.org'
+      - title: Rachel Gallery
         text: Professor, SNRE 
         image: assets/img/members/person5.jpg
-      - title: Laura Meredith, Ph.D. 
+      - title: Laura Meredith
         text: Assistant Professor, SNRE 
         image: assets/img/members/person6.jpg
-      - title: Jana U'Ren, Ph.D.
+      - title: Jana U'Ren
         text: Assistant Professor, BE 
         image: assets/img/members/person7.jpg
 
