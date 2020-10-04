@@ -89,9 +89,7 @@ sections:
 
   - type: aside.html
     section_id: apply 
-    title: Apply to the Graduate Fellowship and Training Program 
-    text: Join us for training to solve real-world challenges in the world’s needs for food, fiber, fuel, medicines, and sustainability -- and to learn how to innovate at the forefront of interdisciplinary science. What do our trainees learn? Data science • Genomics • Statistics • Computation • Organismal biology • Ecosystem science • Applied biology • Science communication • Professional skills • How to flourish as an interdisciplinary scientist with strong roots in disciplinary excellence • And more!. Where do our trainees go? A MS or PhD degree with training in Ecosystem Genomics can position students for science-driven careers in academia, industry and startups, non-governmental and non-profit organizations, government agencies, and more. Reach out to apply today!
-    actions:
+    title: Apply to the Graduate Fellowship and Training Program
       - title: Apply!
         url: '#' 
         class: btn-light
