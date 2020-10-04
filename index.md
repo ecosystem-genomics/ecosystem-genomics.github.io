@@ -3,14 +3,13 @@ layout: home
 header:
   title: BRIDGES 
   text: >
-<b>Welcome to the BRIDGES NRT<\b>, an interdisciplinary training program for MS and PhD students in the emerging field of <b>ecosystem genomics<\b> at the University of Arizona
+Welcome to the BRIDGES NRT, an interdisciplinary training program for MS and PhD students in the emerging field of ecosystem genomics at the University of Arizona
 
 Ecosystem genomics brings together the tools of ecosystem and genomic sciences to understand how processes encoded for in genes scale to the ecosystem scale. By scaling from the gene to ecosystem scale we can understand how wild and agricultural systems function and respond to change.
 
 action: # action button is optional
     label: About
     url: '#about'
-
 
 sections:
   - type: call-to-action.html
