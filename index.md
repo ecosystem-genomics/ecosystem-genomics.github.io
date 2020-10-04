@@ -115,7 +115,7 @@ sections:
         url: http://hurwitzlab.org
       - title: Rachel Gallery
         text: Professor, SNRE 
-        image: assets/img/members/Rachel-Gallery.jpg
+        image: assets/img/members/Rachel-Gallery.png
         url: http://rachelgallery.arizona.edu/ 
       - title: Laura Meredith
         text: Assistant Professor, SNRE 
@@ -123,7 +123,7 @@ sections:
         url: http://www.laurameredith.com/ 
       - title: Jana U'Ren
         text: Assistant Professor, BE 
-        image: assets/img/members/Jana-Uren.png
+        image: assets/img/members/Jana-Uren.jpg
         url: https://www.uren.arizona.edu/person/jana-uren 
 
   - type: timeline.html
