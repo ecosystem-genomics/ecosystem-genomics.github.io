@@ -123,8 +123,8 @@ sections:
         url: http://www.laurameredith.com/ 
       - title: Jana U'Ren
         text: Assistant Professor, BE 
-        image: assets/img/members/Jana-Uren.png
-        url: https://www.uren.arizona.edu/person/jana-uren 
+        image: assets/img/members/Jana-URen.png
+        url: https://www.uren.arizona.edu/ 
 
   - type: timeline.html
     section_id: timeline
