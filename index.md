@@ -103,28 +103,28 @@ sections:
     members:
       - title: Scott Saleska
         text: Professor, EEB 
-        image: assets/img/members/person1.jpg
-        url: http://hurwitzlab.org
+        image: assets/img/members/Scott-Saleska.png
+        url: http://saleskalab.org
       - title: Elizabeth (Betsy) Arnold
         text: Professor, SPLS 
-        image: assets/img/members/person2.jpg
-        url: http://hurwitzlab.org
+        image: assets/img/members/Betsy-Arnold.png
+        url: http://cals.arizona.edu/mycoherb/arnoldlab/ 
       - title: Bonnie Hurwitz
         text: Associate Professor, BE 
-        image: assets/img/members/bonnie.png
+        image: assets/img/members/Bonnie-Hurwitz.png
         url: http://hurwitzlab.org
       - title: Rachel Gallery
         text: Professor, SNRE 
-        image: assets/img/members/person5.jpg
-        url: http://hurwitzlab.org
+        image: assets/img/members/Rachel-Gallery.jpg
+        url: http://rachelgallery.arizona.edu/ 
       - title: Laura Meredith
         text: Assistant Professor, SNRE 
-        image: assets/img/members/person6.jpg
-        url: http://hurwitzlab.org
+        image: assets/img/members/Laura-Meredith.png
+        url: http://www.laurameredith.com/ 
       - title: Jana U'Ren
         text: Assistant Professor, BE 
-        image: assets/img/members/person7.jpg
-        url: http://hurwitzlab.org
+        image: assets/img/members/Jana-Uren.png
+        url: https://www.uren.arizona.edu/person/jana-uren 
 
   - type: timeline.html
     section_id: timeline
