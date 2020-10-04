@@ -21,11 +21,11 @@ sections:
         url: '#apply'
         class: btn-light
 
-  - type: programs.html
-    section_id: programs 
+  - type: services.html
+    section_id: services 
     #background_style: bg-info
     title: Graduate Programs 
-    programs:
+    service:
       - title: EEB 
         text: Ecology and Evolutionary Biology 
         icon: fa-gem text-info
@@ -55,11 +55,11 @@ sections:
         icon: fa-heart
         url: https://has.arizona.edu/
 
-  - type: elements.html
-    # this section has always ID 'elements'
-    #section_id: elements 
+  - type: portfolio.html
+    # this section has always ID 'portfolio'
+    #section_id: portfolio 
     #background_style: bg-dark
-    elements:
+    portfolio:
       - title: Diversity 
         text: Diversity & Inclusion 
         # the images are located in:
@@ -88,7 +88,7 @@ sections:
         icon: 6.jpg
         url: '#'
 
-  - type: apply.html
+  - type: aside.html
     section_id: apply 
     title: Apply to the Graduate Fellowship and Training Program 
     actions:
@@ -96,11 +96,11 @@ sections:
         url: '#' 
         class: btn-light
 
-  - type: faculty.html
-    section_id: faculty
+  - type: members.html
+    section_id: members 
     title: Our Faculty 
     background_style: bg-info text-white
-    faculty:
+    member:
       - title: Scott Saleska, Ph.D.
         text: Professor, EEB 
         image: assets/img/members/person1.jpg
@@ -147,8 +147,8 @@ sections:
           We were funded for a graduate NRT by the NSF. 
           As a result, we kicked our training program!
 
-  - type: contacts.html
-    section_id: contacts
+  - type: contact.html
+    section_id: contact
     title: Get In Touch!
     text: >-
       Interested in our fellowship? Call or send us an email
