@@ -15,11 +15,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: A Graduate Fellowship and Training Program at the University of AZ 
-    text: >
-    We offer competitive fellowships and diverse training opportunities for incoming MS and PhD students applying to seven graduate programs on the UArizona campus: Ecology and Evolutionary Biology (EEB), Plant Sciences/Plant Pathology (SPLS), Biosystems Engineering (BE), Entomology and Insect Science (EIS), Environmental Science (ENVS), Natural Resources and the Environment (SNRE), and Hydrology and Atmospheric Science (HAS. 
-    
-    We welcome and encourage applications from students representing BIPOC, Latinx, LGBTQIA+, and Veterans communities, students with disabilities, and students representing diverse socioeconomic backgrounds and demographies who will make the positive and active  choice to respect, foster, and contribute to our missions of diversity and inclusion. 
-    
+    text: We offer competitive fellowships and diverse training opportunities for incoming MS and PhD students applying to seven graduate programs on the UArizona campus: Ecology and Evolutionary Biology (EEB), Plant Sciences/Plant Pathology (SPLS), Biosystems Engineering (BE), Entomology and Insect Science (EIS), Environmental Science (ENVS), Natural Resources and the Environment (SNRE), and Hydrology and Atmospheric Science (HAS).
     actions:
       - title: Apply!
         url: '#page-top'
