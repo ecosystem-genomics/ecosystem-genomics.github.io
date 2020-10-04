@@ -3,9 +3,13 @@ layout: home
 header:
   title: BRIDGES 
   text: >
-  Welcome to the BRIDGES NRT, an interdisciplinary training program for MS and PhD students in the emerging field of ecosystem genomics at the University of Arizona. Ecosystem genomics brings together the tools of ecosystem and genomic sciences to understand how processes encoded for in genes scale to the ecosystem scale. By scaling from the gene to ecosystem scale we can understand how wild and agricultural systems function and respond to change.
+     Welcome to the BRIDGES NRT, an interdisciplinary training program for MS and PhD students in the emerging field of ecosystem genomics at the University of Arizona. 
   
-  actions: # action button is optional
+     Ecosystem genomics brings together the tools of ecosystem and genomic sciences to understand how processes encoded for in genes scale to the ecosystem scale. 
+  
+     By scaling from the gene to ecosystem scale we can understand how wild and agricultural systems function and respond to change.
+  
+  action: # action button is optional
     label: About
     url: '#about'
 
@@ -14,7 +18,10 @@ sections:
     section_id: about
     background_style: bg-primary
     title: A Graduate Fellowship and Training Program at the University of AZ 
-    text: We offer competitive fellowships and diverse training opportunities for incoming MS and PhD students applying to seven graduate programs on the UArizona campus: Ecology and Evolutionary Biology (EEB), Plant Sciences/Plant Pathology (SPLS), Biosystems Engineering (BE), Entomology and Insect Science (EIS), Environmental Science (ENVS), Natural Resources and the Environment (SNRE), and Hydrology and Atmospheric Science (HAS). We welcome and encourage applications from students representing BIPOC, Latinx, LGBTQIA+, and Veterans communities, students with disabilities, and students representing diverse socioeconomic backgrounds and demographies who will make the positive and active  choice to respect, foster, and contribute to our missions of diversity and inclusion. 
+    text: >
+    We offer competitive fellowships and diverse training opportunities for incoming MS and PhD students applying to seven graduate programs on the UArizona campus: Ecology and Evolutionary Biology (EEB), Plant Sciences/Plant Pathology (SPLS), Biosystems Engineering (BE), Entomology and Insect Science (EIS), Environmental Science (ENVS), Natural Resources and the Environment (SNRE), and Hydrology and Atmospheric Science (HAS. 
+    
+    We welcome and encourage applications from students representing BIPOC, Latinx, LGBTQIA+, and Veterans communities, students with disabilities, and students representing diverse socioeconomic backgrounds and demographies who will make the positive and active  choice to respect, foster, and contribute to our missions of diversity and inclusion. 
     
     actions:
       - title: Apply!
@@ -59,7 +66,7 @@ sections:
     # this section has always ID 'portfolio'
     #section_id: portfolio 
     #background_style: bg-dark
-    portfolio:
+    projects:
       - title: Diversity 
         text: Diversity & Inclusion 
         # the images are located in:
@@ -136,7 +143,7 @@ sections:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
           2020 
-          **Humble Beginnings**
+          **Beginnings**
         text: >-
           We begun with small interdisciplinary group of faculty interested 
           in an emerging field in ecosystem genomics!
