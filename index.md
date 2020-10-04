@@ -104,27 +104,21 @@ sections:
       - title: Scott Saleska, Ph.D.
         text: Professor, EEB 
         image: assets/img/members/person1.jpg
-        url: '#'
       - title: Elizabeth (Betsy) Arnold, Ph.D. 
         text: Professor, SPLS 
         image: assets/img/members/person2.jpg
-        url: '#'
       - title: Bonnie Hurwitz, Ph.D. 
         text: Associate Professor, BE 
         image: assets/img/members/person3.jpg
-        url: '#'
       - title: Rachel Gallery, Ph.D. 
         text: Professor, SNRE 
         image: assets/img/members/person5.jpg
-        url: '#'
       - title: Laura Meredith, Ph.D. 
         text: Assistant Professor, SNRE 
         image: assets/img/members/person6.jpg
-        url: '#'
       - title: Jana U'Ren, Ph.D.
         text: Assistant Professor, BE 
         image: assets/img/members/person7.jpg
-        url: '#'
 
   - type: timeline.html
     section_id: timeline
