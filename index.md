@@ -111,7 +111,7 @@ sections:
         url: http://hurwitzlab.org
       - title: Bonnie Hurwitz
         text: Associate Professor, BE 
-        image: assets/img/members/bonnie.jpg
+        image: assets/img/members/person3.jpg
         url: http://hurwitzlab.org
       - title: Rachel Gallery
         text: Professor, SNRE 
