@@ -3,9 +3,8 @@ layout: home
 header:
   title: BRIDGES 
   text: >
-  Welcome to the BRIDGES NRT, an interdisciplinary training program for MS and PhD students in the emerging field of ecosystem genomics at the University of Arizona
-  Ecosystem genomics brings together the tools of ecosystem and genomic sciences to understand how processes encoded for in genes scale to the ecosystem scale. By scaling from the gene to ecosystem scale we can understand how wild and agricultural systems function and respond to change.
-action: # action button is optional
+  Welcome to the BRIDGES NRT, an interdisciplinary training program for MS and PhD students in the emerging field of ecosystem genomics at the University of Arizona. Ecosystem genomics brings together the tools of ecosystem and genomic sciences to understand how processes encoded for in genes scale to the ecosystem scale. By scaling from the gene to ecosystem scale we can understand how wild and agricultural systems function and respond to change.
+  action: # action button is optional
     label: About
     url: '#about'
 
@@ -14,8 +13,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: A Graduate Fellowship and Training Program at the University of AZ 
-    text: We offer competitive fellowships and diverse training opportunities for incoming MS and PhD students applying to seven graduate programs on the UArizona campus: Ecology and Evolutionary Biology (EEB), Plant Sciences/Plant Pathology (SPLS), Biosystems Engineering (BE), Entomology and Insect Science (EIS), Environmental Science (ENVS), Natural Resources and the Environment (SNRE), and Hydrology and Atmospheric Science (HAS).     
-    We welcome and encourage applications from students representing BIPOC, Latinx, LGBTQIA+, and Veterans communities, students with disabilities, and students representing diverse socioeconomic backgrounds and demographies who will make the positive and active  choice to respect, foster, and contribute to our missions of diversity and inclusion. 
+    text: We offer competitive fellowships and diverse training opportunities for incoming MS and PhD students applying to seven graduate programs on the UArizona campus: Ecology and Evolutionary Biology (EEB), Plant Sciences/Plant Pathology (SPLS), Biosystems Engineering (BE), Entomology and Insect Science (EIS), Environmental Science (ENVS), Natural Resources and the Environment (SNRE), and Hydrology and Atmospheric Science (HAS). We welcome and encourage applications from students representing BIPOC, Latinx, LGBTQIA+, and Veterans communities, students with disabilities, and students representing diverse socioeconomic backgrounds and demographies who will make the positive and active  choice to respect, foster, and contribute to our missions of diversity and inclusion. 
     actions:
       - title: Apply!
         url: '#page-top'
@@ -92,12 +90,12 @@ sections:
     section_id: apply 
     title: Apply to the Graduate Fellowship and Training Program 
     text: Join us for training to solve real-world challenges in the world’s needs for food, fiber, fuel, medicines, and sustainability -- and to learn how to innovate at the forefront of interdisciplinary science.
-
-    <b>What do our trainees learn?<\b> Data science • Genomics • Statistics • Computation • Organismal biology • Ecosystem science • Applied biology • Science communication • Professional skills • How to flourish as an interdisciplinary scientist with strong roots in disciplinary excellence • And more!
-
-    <b>Where do our trainees go?<\b> A MS or PhD degree with training in Ecosystem Genomics can position students for science-driven careers in academia, industry and startups, non-governmental and non-profit organizations, government agencies, and more. 
     
-    <b>Reach out to apply today!<\b>
+    What do our trainees learn? Data science • Genomics • Statistics • Computation • Organismal biology • Ecosystem science • Applied biology • Science communication • Professional skills • How to flourish as an interdisciplinary scientist with strong roots in disciplinary excellence • And more!
+
+    Where do our trainees go? A MS or PhD degree with training in Ecosystem Genomics can position students for science-driven careers in academia, industry and startups, non-governmental and non-profit organizations, government agencies, and more. 
+    
+    Reach out to apply today!
 
     actions:
       - title: Apply!
