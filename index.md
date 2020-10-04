@@ -57,7 +57,7 @@ sections:
     # this section has always ID 'portfolio'
     #section_id: portfolio 
     #background_style: bg-dark
-    portfolio:
+    projects:
       - title: Diversity 
         text: Diversity & Inclusion 
         # the images are located in:
