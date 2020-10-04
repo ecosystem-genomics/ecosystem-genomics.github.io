@@ -14,7 +14,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: A Graduate Fellowship and Training Program at the University of AZ
-    text: We offer competitive fellowships and diverse training opportunities for incoming MS and PhD students applying to seven graduate programs on the UArizona campus: Ecology and Evolutionary Biology (EEB), Plant Sciences/Plant Pathology (SPLS), Biosystems Engineering (BE), Entomology and Insect Science (EIS), Environmental Science (ENVS), Natural Resources and the Environment (SNRE), and Hydrology and Atmospheric Science (HAS).
+    text: Ecosystem genomics promises new knowledge to sustain the biological systems that support, interact with, and are disrupted by human society, such as the agroecosystems that supply food to the world -- and, more generally, the plants, microbes, and insects that shape local, regional, and global cycles of energy, water, and carbon in both natural and managed ecosystems.
     actions:
       - title: Apply!
         url: '#page-top'
