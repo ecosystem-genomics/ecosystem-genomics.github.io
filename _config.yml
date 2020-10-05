@@ -1,9 +1,9 @@
 # Site settings
 title: BRIDGES 
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+#baseurl: "/blog/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-author: Copyright &copy; 2019 - Start Bootstrap
+author: Copyright &copy; 2020 - BRIDGES 
 lang: en_US
 
 # Build settings
