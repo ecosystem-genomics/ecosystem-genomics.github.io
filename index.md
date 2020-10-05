@@ -28,7 +28,7 @@ sections:
     services:
       - title: EEB 
         text: Ecology and Evolutionary Biology 
-        icon: img/portfolio/thumbnails/eeb.png 
+        icon: key 
         url: https://eeb.arizona.edu/ 
       - title: SPLS
         text: Plant Sciences/Plant Pathology 
@@ -44,7 +44,7 @@ sections:
         url: https://environmentalscience.cals.arizona.edu/
       - title: EIS 
         text: Entomology and Insect Science 
-        icon: fa-heart
+        icon: bug-fill
         url: https://cals.arizona.edu/ento/
       - title: SNRE 
         text: Natural Resources and the Environment 
