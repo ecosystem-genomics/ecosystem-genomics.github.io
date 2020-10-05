@@ -28,7 +28,7 @@ sections:
     services:
       - title: EEB 
         text: Ecology and Evolutionary Biology 
-        icon: eeb.png 
+        icon: img/portfolio/thumbnails/eeb.png 
         url: https://eeb.arizona.edu/ 
       - title: SPLS
         text: Plant Sciences/Plant Pathology 
