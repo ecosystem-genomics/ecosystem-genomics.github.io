@@ -17,14 +17,14 @@ sections:
   address:
     title: Address
     text: >
-      45 Williams St,<br/>
-      Marlborough, MA 01752,<br/>
+      1177 East 4th Street,<br/>
+      Tucson, AZ, 85721,<br/>
       United States
   phone:
     title: Phones
     text: >
-      +1 (202) 555-014<br/>
-      +1 (202) 555-015
+      +1 (520) 626-9819<br/>
+      +1 (520) 555-1212
 - type: paragraph.html
   section_id: help
   title: Get some help!
