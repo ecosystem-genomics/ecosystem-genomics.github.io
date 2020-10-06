@@ -4,16 +4,16 @@
 # run. So please, fill in any custom menu entry here.
 header:
 - title: About
-  url: /#call-to-action.html
+  url: /#about
 - title: Graduate Programs 
-  url: /#services.html
+  url: /#services
 - title: Program Elements 
-  url: /#portfolio.html
+  url: /#portfolio
 - title: Faculty 
-  url: /#members.html
+  url: /#members
 - title: Timeline 
-  url: /#timeline.html
+  url: /#timeline
 - title: Contact
-  url: /#contact.html
+  url: /#contact
 - title: Apply
-  url: /#aside.html
+  url: /#aside
