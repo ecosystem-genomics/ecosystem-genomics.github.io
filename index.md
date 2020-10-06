@@ -32,7 +32,7 @@ sections:
         url: https://eeb.arizona.edu/ 
       - title: SPLS
         text: Plant Sciences/Plant Pathology 
-        icon: fa-paper-plane
+        icon: fa-seedling
         url: https://cals.arizona.edu/spls/home
       - title: BE 
         text: Biosystems Engineering 
