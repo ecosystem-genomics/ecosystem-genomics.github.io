@@ -28,7 +28,7 @@ sections:
     services:
       - title: EEB 
         text: Ecology and Evolutionary Biology 
-        icon: fa-heart 
+        icon: fa-paw
         url: https://eeb.arizona.edu/ 
       - title: SPLS
         text: Plant Sciences/Plant Pathology 
@@ -40,19 +40,19 @@ sections:
         url: https://be.arizona.edu/
       - title: ENVS 
         text: Environmental Science 
-        icon: fa-heart
+        icon: fa-tree
         url: https://environmentalscience.cals.arizona.edu/
       - title: EIS 
         text: Entomology and Insect Science 
-        icon: fa-heart 
+        icon: fa-bug
         url: https://cals.arizona.edu/ento/
       - title: SNRE 
         text: Natural Resources and the Environment 
-        icon: fa-heart
+        icon: fa-cloud
         url: https://snre.arizona.edu/
       - title: HAS 
         text: Hydrology and Atmospheric Science 
-        icon: fa-heart
+        icon: fa-tint
         url: https://has.arizona.edu/
 
   - type: portfolio.html
@@ -126,26 +126,6 @@ sections:
         image: assets/img/members/Jana-URen.png
         url: https://www.uren.arizona.edu/ 
 
-  - type: timeline.html
-    section_id: timeline
-    title: Major Achievements!
-    background_style: bg-dark text-primary
-    last_image: assets/img/timeline-end.png
-    actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
-        title: >+
-          2020 
-          **Humble Beginnings**
-        text: >-
-          We begun with small interdisciplinary group of faculty interested 
-          in an emerging field in ecosystem genomics!
-      - image: assets/img/portfolio/thumbnails/2.jpg
-        title: >+
-          September 2020 
-          The training program started
-        text: >-
-          We were funded for a graduate NRT by the NSF. 
-          As a result, we kicked our training program!
 
   - type: contact.html
     section_id: contact
