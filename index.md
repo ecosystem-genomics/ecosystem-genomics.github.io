@@ -66,7 +66,7 @@ sections:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
-        url: '#'
+        url: '/how-to-apply'
       - title: Graduate Courses 
         text: Courses for a PhD in Ecosystem Genomics  
         icon: 2.jpg
@@ -93,7 +93,7 @@ sections:
     title: Apply to the Graduate Fellowship and Training Program 
     actions:
       - title: Apply!
-        url: '#' 
+        url: '/how-to-apply' 
         class: btn-light
 
   - type: members.html
