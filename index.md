@@ -96,6 +96,28 @@ sections:
         url: '/how-to-apply' 
         class: btn-light
 
+  - type: timeline.html
+    section_id: timeline
+    title: Application Timeline
+    background_style: bg-dark text-primary
+    last_image: assets/img/timeline-end.png
+    actions:
+      - image: assets/img/portfolio/thumbnails/1.jpg
+        title: >+
+          October 2020 
+        text: >-
+          Application opens
+      - image: assets/img/portfolio/thumbnails/2.jpg
+        title: >+
+          December 1st, 2020 
+        text: >-
+          Application deadline for all departments
+      - image: assets/img/portfolio/thumbnails/2.jpg
+        title: >+
+          Early Spring, 2021
+        text: >-
+          Students notifed of acceptance
+
   - type: members.html
     section_id: members 
     title: Our Faculty 
