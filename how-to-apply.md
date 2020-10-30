@@ -11,16 +11,19 @@ menus:
 
 sections:
 
+- type: paragraph.html
+  section_id: eligibility
+  title: Eligibility
+#  background_style: bg-info
+#  text_style: text-left text-white
+  text: >+
+    We offer competitive fellowships and diverse training opportunities for incoming MS and PhD students applying to seven graduate programs on the UArizona campus: Ecology and Evolutionary Biology (EEB), Plant Sciences/Plant Pathology (SPLS), Biosystems Engineering (BE), Entomology and Insect Science (EIS), Environmental Science (ENVS), Natural Resources and the Environment (SNRE), and Hydrology and Atmospheric Science (HAS). 
+
 - type: columns.html
   section_id: application_requirements
   title: Application Materials
 #  background_style: bg-info
 #  text_style: text-left text-white
-  actions:
-   - title: Apply Now
-     class: btn-info
-     url: '#'
-
   text1: >+
     ### Required
 
@@ -41,6 +44,12 @@ sections:
 
     + A graduate transcript
 
+- type: paragraph.html
+  section_id: contact info
+  title: Applicaton Submission
+#  background_style: bg-info
+#  text_style: text-left text-white
+  text: Interested applicants should contact [Individual] at [netid]@email.arizona.edu
 
 
 ---
