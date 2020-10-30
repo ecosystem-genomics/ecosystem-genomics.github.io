@@ -68,27 +68,27 @@ sections:
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-        icon: 1.jpg
+        icon: young-people-putting-their-hands-together-UBC4Q32.jpg
         url: '/program-details.html#diversity-statement'
       - title: Graduate Courses 
         text: Courses for a PhD in Ecosystem Genomics  
-        icon: 2.jpg
+        icon: at-the-classroom-P3CFGE2.jpg
         url: '/program-details.html#courses'
       - title: Certificate & PhD minor 
         text: MS Certificate and PhD GIDP minor 
-        icon: 3.jpg
+        icon: girls-studying-in-the-classroom-MXFPYQ2.jpg
         url: '/program-details.html#certs-and-minor'
       - title: Mentorship
         text: Mentored Mentoring
-        icon: 4.jpg
+        icon: teacher-and-student-scientists-working-with-micros-8N7NJPR.jpg
         url: '/program-details.html#mentored-mentoring'
       - title: Professional Training & Development
         text: Professional Training & Development
-        icon: 5.jpg
+        icon: discussing-strategy-of-development-FA6VW95.jpg
         url: '/program-details.html#professional-dev'
       - title: Convergence Institute 
         text: Summer Program and Convergence Institute 
-        icon: 6.jpg
+        icon: conference-P37J6TX.jpg
         url: '/program-details.html#convergence-institute'
 
 
