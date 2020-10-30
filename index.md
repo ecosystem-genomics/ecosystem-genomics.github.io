@@ -66,27 +66,27 @@ sections:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
-        url: '/how-to-apply'
+        url: '/program-details.html#diversity-statement'
       - title: Graduate Courses 
         text: Courses for a PhD in Ecosystem Genomics  
         icon: 2.jpg
-        url: '#'
+        url: '/program-details.html#courses'
       - title: Certificate & PhD minor 
         text: MS Certificate and PhD GIDP minor 
         icon: 3.jpg
-        url: '#'
-      - title: Internships 
-        text: Internships in academia and industry. 
+        url: '/program-details.html#certs-and-minor'
+      - title: Mentorship
+        text: Mentored Mentoring
         icon: 4.jpg
-        url: '#'
-      - title: Professional Training & Mentorship 
-        text: mentored mentoring and professional training 
+        url: '/program-details.html#mentored-mentoring'
+      - title: Professional Training & Development
+        text: Professional Training & Development
         icon: 5.jpg
-        url: '#'
+        url: '/program-details.html#professional-dev'
       - title: Convergence Institute 
-        text: Summer program and Convergence Institute 
+        text: Summer Program and Convergence Institute 
         icon: 6.jpg
-        url: '#'
+        url: '/program-details.html#convergence-institute'
 
   - type: aside.html
     section_id: apply 
