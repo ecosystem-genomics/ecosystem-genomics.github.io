@@ -1,12 +1,11 @@
 ---
 layout: home
 header:
-  title: BRIDGES 
-  text: >
-    Building Resources for InterDisciplinary training in Genomic 
-    and Ecosystem Sciences (BRIDGES); an NSF Training Grant 
+  title: Welcome to BRIDGES
+  text: >+
+     An NSF-funded training program to support outstanding, diverse students in pursuing graduate degrees (MS, PhD) in ecosystem genomics. We offer fellowships for students to pursue their research in a program enriched by professional training, internships, a certificate and a minor, and mentorship opportunities.
   action: # action button is optional
-    label: Find Out More
+    label: Learn More
     url: '#about'
 
 
@@ -14,17 +13,21 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: A Graduate Fellowship and Training Program at the University of AZ 
-    text: Ecosystem genomics promises new knowledge to sustain the biological systems that support, interact with, and are disrupted by human society, such as the agroecosystems that supply food to the world -- and, more generally, the plants, microbes, and insects that shape local, regional, and global cycles of energy, water, and carbon in both natural and managed ecosystems. 
+    title: Why Ecosystem Genomics?
+    text: 
+      Ecosystem genomics brings together the tools of ecosystem and genomic sciences to understand how processes encoded for in genes scale to the ecosystem scale. By scaling from the gene to ecosystem scale we can understand how wild and agricultural systems function and respond to change.
     actions:
-      - title: Apply!
-        url: '/how-to-apply.html'
+      - title: Participating Programs
+        url: '/#services'
         class: btn-light
+
 
   - type: services.html
     section_id: services 
     #background_style: bg-info
     title: Graduate Programs 
+    text: >+
+      We offer competitive fellowships and diverse training opportunities for incoming MS and PhD students applying to seven graduate programs on the UArizona campus
     services:
       - title: EEB 
         text: Ecology and Evolutionary Biology 
@@ -88,19 +91,10 @@ sections:
         icon: 6.jpg
         url: '/program-details.html#convergence-institute'
 
-  - type: aside.html
-    section_id: apply 
-    title: Apply to the Graduate Fellowship and Training Program 
-    actions:
-      - title: Apply!
-        url: '/how-to-apply' 
-        class: btn-light
-
-
 
   - type: members.html
     section_id: members 
-    title: Our Faculty 
+    title: Who are we? 
     background_style: bg-info text-white
     members:
       - title: Scott Saleska
@@ -128,27 +122,14 @@ sections:
         image: assets/img/members/Jana-URen.png
         url: https://www.uren.arizona.edu/ 
 
-  - type: timeline.html
-    section_id: timeline
-    title: Application Timeline
-    background_style: bg-dark text-primary
-    last_image: assets/img/timeline-end.png
+
+  - type: aside.html
+    section_id: apply 
+    title: Apply to the Graduate Fellowship and Training Program 
     actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
-        title: >+
-          October 2020 
-        text: >-
-          Application opens
-      - image: assets/img/portfolio/thumbnails/2.jpg
-        title: >+
-          December 1st, 2020 
-        text: >-
-          Application deadline for all departments
-      - image: assets/img/portfolio/thumbnails/2.jpg
-        title: >+
-          Early Spring, 2021
-        text: >-
-          Students notifed of acceptance
+      - title: Apply!
+        url: '/how-to-apply' 
+        class: btn-light
 
   - type: contact.html
     section_id: contact
