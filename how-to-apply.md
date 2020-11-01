@@ -17,7 +17,7 @@ sections:
 #  background_style: bg-info
 #  text_style: text-left text-white
   text: >+
-    We offer competitive fellowships and diverse training opportunities for incoming MS and PhD students applying to seven graduate programs on the UArizona campus: Ecology and Evolutionary Biology (EEB), Plant Sciences/Plant Pathology (SPLS), Biosystems Engineering (BE), Entomology and Insect Science (EIS), Environmental Science (ENVS), Natural Resources and the Environment (SNRE), and Hydrology and Atmospheric Science (HAS). 
+    All UA graduate students applying to one of the seven programs are eligible to apply to participate in the BRIDGES NRT training program. US citizens and permanent residents are also eligible to apply for $34,000 two-year NRT fellowships. We (and accepting home departments) will work with accepted International students to identify other possible paths of funding support.
 
 - type: columns.html
   section_id: application_requirements
@@ -29,27 +29,26 @@ sections:
 
     All applicants must submit:
 
-    + A current CV
-
     + A 1/2-1 page statement of interest in the BRIDGES Program
 
-    + An undergraduate transcript (unofficial)
-
     + A 1-2 page statement of your research interests, including past research experience and interests in future research
-      + We encourage students to identify faculty who you would like as your primary or co adivsor
-    + 1 or 2 letters of reference. 
-      +Recommendors should email letters to [email] with subject "Reference for [Firstname] [Lastname]"
-  text2: >+
-    ### If Applicable
 
-    + A graduate transcript
+
+  text2: >+
+    ### Optional
+
+    + We encourage students to identify faculty who you would like as your primary or co adivsor
 
 - type: paragraph.html
   section_id: contact info
-  title: Applicaton Submission
+  title: Need more information?
 #  background_style: bg-info
 #  text_style: text-left text-white
-  text: Interested applicants should contact [Individual] at [netid]@email.arizona.edu
+  text: Interested applicants should contact Heather Ingram at [netid]@email.arizona.edu
+  actions:
+  - title: Apply Now
+    url: 'https://uarizona.co1.qualtrics.com/jfe/form/SV_eaH2jkJBxMuBE3z '
+    class: btn-light
 
 
 ---
