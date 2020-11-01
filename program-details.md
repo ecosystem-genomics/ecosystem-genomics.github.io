@@ -57,7 +57,7 @@ sections:
   text: >+ 
     Filler text
   image: 
-    'assets/img/portfolio/thumbnails/discussing-strategy-of-development-FA6VW95.jpg'
+    'assets/img/portfolio/thumbnails/close-up-view-of-business-partner-handshaking-proc-XB9RXSK.jpg'
 
 - type: picture-paragraph.html
   section_id: convergence-institute
