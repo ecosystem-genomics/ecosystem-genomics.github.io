@@ -84,7 +84,7 @@ sections:
         url: '/program-details.html#mentored-mentoring'
       - title: Professional Training & Development
         text: Professional Training & Development
-        icon: discussing-strategy-of-development-FA6VW95.jpg
+        icon: close-up-view-of-business-partner-handshaking-proc-XB9RXSK.jpg
         url: '/program-details.html#professional-dev'
       - title: Convergence Institute 
         text: Summer Program and Convergence Institute 
