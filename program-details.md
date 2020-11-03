@@ -36,7 +36,7 @@ sections:
 #  background_style: bg-info
 #  text_style: text-left text-white
   text: >+ 
-    Filler text
+    Coming Soon!
   image: 
     'assets/img/portfolio/thumbnails/girls-studying-in-the-classroom-MXFPYQ2.jpg'
 
@@ -55,7 +55,7 @@ sections:
 #  background_style: bg-info
 #  text_style: text-left text-white
   text: >+ 
-    Filler text
+    Coming Soon!
   image: 
     'assets/img/portfolio/thumbnails/close-up-view-of-business-partner-handshaking-proc-XB9RXSK.jpg'
 
