@@ -141,14 +141,6 @@ sections:
       icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:ecosystemgenomics@gmail.com
-    - title: Twitter
-      icon: fa-twitter
-      icon_type: fab
-      url: '#'
-    - title: Facebook
-      icon: fa-facebook
-      icon_type: fab
-      url: '#'
+      url: mailto:hci@email.arizona.edu
 
 ---
