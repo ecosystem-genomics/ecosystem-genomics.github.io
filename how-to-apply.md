@@ -44,7 +44,7 @@ sections:
   title: Need more information?
 #  background_style: bg-info
 #  text_style: text-left text-white
-  text: Interested applicants should contact Heather Ingram at [netid]@email.arizona.edu
+  text: Interested applicants should contact Heather Ingram at hci@email.arizona.edu
   actions:
   - title: Apply Now
     url: 'https://uarizona.co1.qualtrics.com/jfe/form/SV_eaH2jkJBxMuBE3z '
