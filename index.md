@@ -103,7 +103,7 @@ sections:
         url: http://saleskalab.org
       - title: A. Elizabeth (Betsy) Arnold
         text: Professor, SPLS 
-        image: assets/img/members/Betsy-Arnold.png
+        image: assets/img/members/Betsy-Arnold.jpg
         url: www.arnoldlab.net 
       - title: Bonnie Hurwitz
         text: Associate Professor, BE 
