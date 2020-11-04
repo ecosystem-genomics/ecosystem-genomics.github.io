@@ -104,7 +104,7 @@ sections:
       - title: A. Elizabeth (Betsy) Arnold
         text: Professor, SPLS 
         image: assets/img/members/Betsy-Arnold.jpg
-        url: www.arnoldlab.net 
+        url: http://www.arnoldlab.net 
       - title: Bonnie Hurwitz
         text: Associate Professor, BE 
         image: assets/img/members/Bonnie-Hurwitz.png
