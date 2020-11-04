@@ -101,10 +101,10 @@ sections:
         text: Professor, Ecology and Evolutionary Biology
         image: assets/img/members/Scott-Saleska.png
         url: http://saleskalab.org
-      - title: Elizabeth (Betsy) Arnold
+      - title: A. Elizabeth (Betsy) Arnold
         text: Professor, SPLS 
         image: assets/img/members/Betsy-Arnold.png
-        url: http://cals.arizona.edu/mycoherb/arnoldlab/ 
+        url: www.arnoldlab.net 
       - title: Bonnie Hurwitz
         text: Associate Professor, BE 
         image: assets/img/members/Bonnie-Hurwitz.png
