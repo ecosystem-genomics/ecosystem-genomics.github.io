@@ -12,39 +12,44 @@ menus:
 sections:
 
 - type: paragraph.html
-  section_id: eligibility
-  title: Eligibility
+  section_id: overview
+  title: Overview
 #  background_style: bg-info
 #  text_style: text-left text-white
   text: >+
-    All UA graduate students applying to one of the seven programs are eligible to apply to participate in the BRIDGES NRT training program. US citizens and permanent residents are also eligible to apply for $34,000 two-year NRT fellowships. We (and accepting home departments) will work with accepted International students to identify other possible paths of funding support.
+    BRIDGES is an NSF-funded interdisciplinary graduate training program in ecosystem genomics that trains diverse students to communicate (1) across the entire “genes-to-ecosystems” scale, and (2) among the different cultures of science and the people that practice science, to solve real world problems that matter.
 
-- type: columns.html
-  section_id: application_requirements
-  title: Application Materials
+- type: paragraph.html
+  section_id: eligibility
+  title: Opportunity and Eligibility
 #  background_style: bg-info
 #  text_style: text-left text-white
-  text1: >+
-    ### Required
+  text: >+
+    All who are applying to one of UA’s seven graduate programs (EEB, SPLS, ENVS, BES, HAS, SNRE, EIS) for matriculation in fall 2021 are encouraged to apply to join NSF BRIDGES’ first training cohort!   U.S. Citizens and permanent residents are also eligible to apply to competitive NRT fellowships of $34,000 per year for up to two years.  Those not eligible for fellowships are nonetheless encouraged to apply to our program, to avail themselves of the program’s benefits including  interdisciplinary training, travel funding, and opportunities in professional development, and outreach. BRIDGES (and accepting home departments) will work with accepted International students to identify possible paths of funding support.
 
-    All applicants must submit:
+- type: paragraph.html
+  section_id: before-applying
+  title: Before Applying
+#  background_style: bg-info
+#  text_style: text-left text-white
+  text: >+
+   Finding a graduate program and faculty mentor(s) and research group that aligns with your interests is crucial for success in graduate school. Before applying to BRIDGES, please learn about our research groups and mentors by looking at their websites and contacting prospective mentor(s) whose interests most closely relate to yours. (in the end, we aim for most students to also have an “out-of-program” co-advisor/co-mentor from a different program, to support interdisciplinary collaboration, but this needn’t be settled before application). If you are unsure who to contact, please email the BRIDGES program manager.
 
-    + A 1/2-1 page statement of interest in the BRIDGES Program
-
-    + A 1-2 page statement of your research interests, including past research experience and interests in future research
-
-
-  text2: >+
-    ### Optional
-
-    + We encourage students to identify faculty who you would like as your primary or co adivsor
+- type: paragraph.html
+  section_id: to-apply
+  title: To Apply
+#  background_style: bg-info
+#  text_style: text-left text-white
+  text: >+
+   Fill out the form below.  This includes a ½-to-1 page statement of interest in the BRIDGES program plus a 1-2 page statement of your research interests.  Applications for fellowship funding received by December 1, 2020 will have priority, but we will consider applications on a rolling basis if fellowships remain available.
 
 - type: paragraph.html
   section_id: contact info
   title: Need more information?
 #  background_style: bg-info
 #  text_style: text-left text-white
-  text: Interested applicants should contact Heather Ingram at hci@email.arizona.edu
+  text: >+
+    Interested applicants should contact Heather Ingram at bridges.nrt@gmail.com
   actions:
   - title: Apply Now
     url: 'https://uarizona.co1.qualtrics.com/jfe/form/SV_eaH2jkJBxMuBE3z '
