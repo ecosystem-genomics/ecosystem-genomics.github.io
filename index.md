@@ -130,11 +130,11 @@ sections:
         image: assets/img/members/generic-icon.jpg
         url: https://sociology.arizona.edu/people/erin-leahey
       - title: Malak Tfaily
-        text: Assistant Professor, Envrionmental Science
+        text: Assistant Professor, Environmental Science
         image: assets/img/members/generic-icon.jpg
         url: https://malaktfaily.com/
       - title: Albert Barberán
-        text: Assistant Professor, Envrionmental Science
+        text: Assistant Professor, Environmental Science
         image: assets/img/members/generic-icon.jpg
         url: https://barberanalbert.wixsite.com/labpage    
       - title: Katrina Dlugosch
