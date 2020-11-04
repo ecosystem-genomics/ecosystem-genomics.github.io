@@ -32,7 +32,7 @@ sections:
 
 - type: picture-paragraph.html
   section_id: certs-and-minor
-  title: MS Certificates and PhD GDIP Minor
+  title: MS Certificates and PhD GIDP Minor
 #  background_style: bg-info
 #  text_style: text-left text-white
   text: >+ 
