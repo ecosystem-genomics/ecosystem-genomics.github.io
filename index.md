@@ -189,6 +189,6 @@ sections:
       icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto: BRIDGES.NRT@gmail.com
+      url: mailto:BRIDGES.NRT@gmail.com
 
 ---
