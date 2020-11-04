@@ -189,6 +189,6 @@ sections:
       icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:hci@email.arizona.edu
+      url: mailto: BRIDGES.NRT@gmail.com
 
 ---
