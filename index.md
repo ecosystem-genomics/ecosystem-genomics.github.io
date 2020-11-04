@@ -98,7 +98,7 @@ sections:
     background_style: bg-info text-white
     members:
       - title: Scott Saleska
-        text: Professor, EEB 
+        text: Professor, Ecology and Evolutionary Biology
         image: assets/img/members/Scott-Saleska.png
         url: http://saleskalab.org
       - title: Elizabeth (Betsy) Arnold
@@ -121,6 +121,54 @@ sections:
         text: Assistant Professor, BE 
         image: assets/img/members/Jana-URen.png
         url: https://www.uren.arizona.edu/ 
+      - title: Jennifer Croissant
+        text: Associate Professor, GWS
+        image: assets/img/members/add-friend-social-media-icon-PN64E35.jpg
+        url: http://www.u.arizona.edu/~jlc/
+      - title: Erin Leahey
+        text: Professor and Director of Sociology
+        image: assets/img/members/add-friend-social-media-icon-PN64E35.jpg
+        url: https://sociology.arizona.edu/people/erin-leahey
+      - title: Malak Tfaily
+        text: Assistant Professor, Envrionmental Science
+        image: assets/img/members/add-friend-social-media-icon-PN64E35.jpg
+        url: https://malaktfaily.com/
+      - title: Albert Barberán
+        text: Assistant Professor, Envrionmental Science
+        image: assets/img/members/add-friend-social-media-icon-PN64E35.jpg
+        url: https://barberanalbert.wixsite.com/labpage    
+      - title: Katrina Dlugosch
+        text: Associate Professor, Ecology and Evolutionary Biology
+        image: assets/img/members/add-friend-social-media-icon-PN64E35.jpg
+        url: https://www.dlugosch-lab.net/ 
+      - title: Regis Ferriere
+        text: Associate Professor, Ecology and Evolutionary Biology
+        image: assets/img/members/add-friend-social-media-icon-PN64E35.jpg
+        url: https://eeb.arizona.edu/person/regis-ferriere           
+      - title: Rod A Wing
+        text: Bud Antle Endowed Chair Professor, School of Plant Sciences, Ecology & Evolutionary Biology, Arizona Genomics Institute
+        image: assets/img/members/add-friend-social-media-icon-PN64E35.jpg
+        url: https://www.genome.arizona.edu/modules/smartpartner/      
+      - title: Luciano Matzkin
+        text: Associate Professor, Entomology and Insect Science
+        image: assets/img/members/add-friend-social-media-icon-PN64E35.jpg
+        url: https://matzkinlab.org/author/matzkinlab/        
+      - title: W. Duke Pauli, SPLS
+        text: Assistant Professor, School of Plant Sciences
+        image: assets/img/members/add-friend-social-media-icon-PN64E35.jpg
+        url: https://thepaulilab.com/     
+      - title: Yang Song
+        text: Assistant Professor, Hydrology and Atmospheric Sciences
+        image: assets/img/members/add-friend-social-media-icon-PN64E35.jpg
+        url: https://has.arizona.edu/people/yang-c-song
+      - title: David Lebauer
+        text: Director of Data Science, Agricultural Experiment Station 
+        image: assets/img/members/add-friend-social-media-icon-PN64E35.jpg
+        url: https://datascience.cals.arizona.edu/person/david-lebauer
+      - title: Michelle Higgens
+        text: Associate Director, Office of Societal Impact
+        image: assets/img/members/Michelle-Higgens.jpg
+        url: https://stem.arizona.edu/person/michelle-higgins
 
 
   - type: aside.html
