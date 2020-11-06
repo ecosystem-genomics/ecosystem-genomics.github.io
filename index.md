@@ -102,27 +102,27 @@ sections:
         image: assets/img/members/Scott-Saleska.png
         url: http://saleskalab.org
       - title: A. Elizabeth (Betsy) Arnold
-        text: Professor, SPLS 
+        text: Professor, School of Plant Sciences
         image: assets/img/members/Betsy-Arnold.jpg
         url: http://www.arnoldlab.net 
       - title: Bonnie Hurwitz
-        text: Associate Professor, BE 
+        text: Associate Professor, Biosystems Engineering
         image: assets/img/members/Bonnie-Hurwitz.png
         url: http://hurwitzlab.org
       - title: Rachel Gallery
-        text: Professor, SNRE 
+        text: Professor, School of Natural Resources and the Environment
         image: assets/img/members/Rachel-Gallery.png
         url: http://rachelgallery.arizona.edu/ 
       - title: Laura Meredith
-        text: Assistant Professor, SNRE 
+        text: Assistant Professor, School of Natural Resources and the Environment
         image: assets/img/members/Laura-Meredith.png
         url: http://www.laurameredith.com/ 
       - title: Jana U'Ren
-        text: Assistant Professor, BE 
+        text: Assistant Professor, Biosystems Engineering
         image: assets/img/members/Jana-URen.png
         url: https://www.uren.arizona.edu/ 
       - title: Jennifer Croissant
-        text: Associate Professor, GWS
+        text: Associate Professor, Gender and Women's Studies
         image: assets/img/members/generic-icon.jpg
         url: http://www.u.arizona.edu/~jlc/
       - title: Erin Leahey
