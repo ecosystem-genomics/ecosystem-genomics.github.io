@@ -37,7 +37,7 @@ sections:
 #  background_style: bg-info
 #  text_style: text-left text-white
   text: >+
-   Finding a graduate program and faculty mentor(s) and research group that aligns with your interests is crucial for success in graduate school. Before applying to BRIDGES, please learn about our research groups and mentors by looking at their websites and contacting prospective mentor(s) whose interests most closely relate to yours. (in the end, we aim for most students to also have an “out-of-program” co-advisor/co-mentor from a different program, to support interdisciplinary collaboration, but this needn’t be settled before application). If you are unsure who to contact, please email the BRIDGES program manager.
+   Finding a graduate program and faculty mentor(s) and research group that aligns with your interests is crucial for success in graduate school. Before applying to BRIDGES, please learn about our research groups and mentors by looking at their websites and contacting prospective mentor(s) whose interests most closely relate to yours. If you are unsure who to contact, please email the BRIDGES program manager.
 
 - type: paragraph.html
   section_id: to-apply
