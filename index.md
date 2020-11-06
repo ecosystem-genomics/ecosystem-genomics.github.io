@@ -123,7 +123,7 @@ sections:
         url: https://www.uren.arizona.edu/ 
       - title: Jennifer Croissant
         text: Associate Professor, Gender and Women's Studies
-        image: assets/img/members/generic-icon.jpg
+        image: assets/img/members/Jennifer-Croissant.jpg
         url: http://www.u.arizona.edu/~jlc/
       - title: Erin Leahey
         text: Professor and Director of Sociology
@@ -169,6 +169,12 @@ sections:
         text: Associate Director, Office of Societal Impact
         image: assets/img/members/Michelle-Higgens.jpg
         url: https://stem.arizona.edu/person/michelle-higgins
+      - title: Shirley Vincent
+        text: 
+        image: assets/img/members/Shirley-Vincent.jpg
+
+
+
 
 
   - type: aside.html
