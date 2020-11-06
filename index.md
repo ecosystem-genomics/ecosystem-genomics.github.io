@@ -48,7 +48,7 @@ sections:
       - title: EIS 
         text: Entomology and Insect Science 
         icon: fa-bug
-        url: https://cals.arizona.edu/ento/
+        url: https://insects.arizona.edu/
       - title: SNRE 
         text: Natural Resources and the Environment 
         icon: fa-cloud
