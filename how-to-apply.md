@@ -53,7 +53,7 @@ sections:
 #  background_style: bg-info
 #  text_style: text-left text-white
   text: >+
-    Interested applicants should contact Heather Ingram at bridges.nrt@gmail.com
+    Interested applicants should contact Heather Ingram at [bridges.nrt@gmail.com](mailto:bridges.nrt@gmail.com).
   actions:
   - title: Apply Now
     url: 'https://uarizona.co1.qualtrics.com/jfe/form/SV_eaH2jkJBxMuBE3z '
