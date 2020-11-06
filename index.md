@@ -46,7 +46,7 @@ sections:
         icon: fa-tree
         url: https://environmentalscience.cals.arizona.edu/
       - title: EIS 
-        text: Entomology and Insect Science 
+        text: Department of Entomology 
         icon: fa-bug
         url: https://insects.arizona.edu/
       - title: SNRE 
@@ -188,8 +188,6 @@ sections:
     text: >-
       Interested in our fellowship? Call or send us an email
     actions:
-    - title: +1 (520) 626-9819
-      icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
       url: mailto:BRIDGES.NRT@gmail.com
