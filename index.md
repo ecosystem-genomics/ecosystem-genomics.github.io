@@ -153,7 +153,7 @@ sections:
         text: Associate Professor, Entomology and Insect Science
         image: assets/img/members/generic-icon.jpg
         url: https://matzkinlab.org/        
-      - title: W. Duke Pauli, SPLS
+      - title: W. Duke Pauli
         text: Assistant Professor, School of Plant Sciences
         image: assets/img/members/generic-icon.jpg
         url: https://thepaulilab.com/     
