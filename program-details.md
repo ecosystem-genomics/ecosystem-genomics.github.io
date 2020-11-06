@@ -17,7 +17,7 @@ sections:
 #  background_style: bg-info
 #  text_style: text-left text-white
   text:
-    We welcome and **strongly encourage** applications from students representing BIPOC, Latinx, LGBTQIIA+, and Veterans communities, students with disabilities, and students representing diverse socioeconomic backgrounds and demographies whose lived experiences and perspectives contribute to asking different questions and seeking diverse approaches as we build this new and exciting field of study. 
+    We are committed to building an inclusive and equitable training and research environment that supports a diverse cohort of participants, faculty, and partners. We strongly encourage and welcome applications from candidates who self-identify as members of minoritized or underrepresented groups.
   image: 'assets/img/portfolio/thumbnails/young-people-putting-their-hands-together-UBC4Q32.jpg'
 
 - type: picture-paragraph.html
