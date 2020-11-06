@@ -170,11 +170,8 @@ sections:
         image: assets/img/members/Michelle-Higgens.jpg
         url: https://stem.arizona.edu/person/michelle-higgins
       - title: Shirley Vincent
-        text: 
+        text: Principal and Owner, Vincent Evaluation Consulting, LLC
         image: assets/img/members/Shirley-Vincent.jpg
-
-
-
 
 
   - type: aside.html
