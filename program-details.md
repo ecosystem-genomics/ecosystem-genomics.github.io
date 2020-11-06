@@ -65,7 +65,7 @@ sections:
 #  background_style: bg-info
 #  text_style: text-left text-white
   text: >+ 
-    Each summer our NRT community comes together for a summit meeting that is equal parts science, training, inclusion, professional development, and science communication. Students pitch ideas and receive supportive feedback. Returning students describe their team-based experiences on internships. This is the flagship event of our program in which we grow and celebrate our diversity and scientific endeavors.
+    Each summer our NSF Research Traineeship (NRT) community comes together for a summit meeting that is equal parts science, training, inclusion, professional development, and science communication. Students pitch ideas and receive supportive feedback. Returning students describe their team-based experiences on internships. This is the flagship event of our program in which we grow and celebrate our diversity and scientific endeavors.
   image:
     'assets/img/portfolio/thumbnails/conference-P37J6TX.jpg'
 
