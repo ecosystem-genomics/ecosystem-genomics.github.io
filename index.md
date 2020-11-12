@@ -111,7 +111,7 @@ sections:
         url: http://hurwitzlab.org
       - title: Rachel Gallery
         text: Professor, School of Natural Resources and the Environment
-        image: assets/img/members/Rachel-Gallery.png
+        image: assets/img/members/Rachel-Gallery.jpg 
         url: http://rachelgallery.arizona.edu/ 
       - title: Laura Meredith
         text: Assistant Professor, School of Natural Resources and the Environment
@@ -119,7 +119,7 @@ sections:
         url: http://www.laurameredith.com/ 
       - title: Jana U'Ren
         text: Assistant Professor, Biosystems Engineering
-        image: assets/img/members/Jana-URen.png
+        image: assets/img/members/Jana-URen.jpg
         url: https://www.uren.arizona.edu/ 
       - title: Jennifer Croissant
         text: Associate Professor, Gender and Women's Studies
@@ -131,11 +131,11 @@ sections:
         url: https://sociology.arizona.edu/people/erin-leahey
       - title: Malak Tfaily
         text: Assistant Professor, Environmental Science
-        image: assets/img/members/generic-icon.jpg
+        image: assets/img/members/Malak-Tfaily.jpg
         url: https://malaktfaily.com/
       - title: Albert Barberán
         text: Assistant Professor, Environmental Science
-        image: assets/img/members/generic-icon.jpg
+        image: assets/img/members/Albert-Barberan.jpg
         url: https://barberanalbert.wixsite.com/labpage    
       - title: Katrina Dlugosch
         text: Associate Professor, Ecology and Evolutionary Biology
@@ -159,11 +159,11 @@ sections:
         url: https://thepaulilab.com/     
       - title: Yang Song
         text: Assistant Professor, Hydrology and Atmospheric Sciences
-        image: assets/img/members/generic-icon.jpg
+        image: assets/img/members/Yang-Song.jpg
         url: https://has.arizona.edu/people/yang-c-song
       - title: David Lebauer
         text: Director of Data Science, Agricultural Experiment Station 
-        image: assets/img/members/generic-icon.jpg
+        image: assets/img/members/David-Lebauer.jpg
         url: https://datascience.cals.arizona.edu/person/david-lebauer
       - title: Michelle Higgens
         text: Associate Director, Office of Societal Impact
@@ -172,6 +172,9 @@ sections:
       - title: Shirley Vincent
         text: Principal and Owner, Vincent Evaluation Consulting, LLC
         image: assets/img/members/Shirley-Vincent.jpg
+      - title: Heather Ingram
+        text: BRIDGES Program Manager
+        image: assets/img/members/Heather-Ingram.jpg
 
 
   - type: aside.html
