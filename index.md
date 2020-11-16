@@ -107,7 +107,7 @@ sections:
         url: http://www.arnoldlab.net 
       - title: Bonnie Hurwitz
         text: Associate Professor, Biosystems Engineering
-        image: assets/img/members/Bonnie-Hurwitz.png
+        image: assets/img/members/Bonnie-Hurwitz.jpg
         url: http://hurwitzlab.org
       - title: Rachel Gallery
         text: Professor, School of Natural Resources and the Environment
