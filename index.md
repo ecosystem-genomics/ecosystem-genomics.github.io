@@ -139,7 +139,7 @@ sections:
         url: https://barberanalbert.wixsite.com/labpage    
       - title: Katrina Dlugosch
         text: Associate Professor, Ecology and Evolutionary Biology
-        image: assets/img/members/generic-icon.jpg
+        image: assets/img/members/Katrina-Dlugosch.jpg
         url: https://www.dlugosch-lab.net/ 
       - title: Regis Ferriere
         text: Associate Professor, Ecology and Evolutionary Biology
@@ -147,7 +147,7 @@ sections:
         url: https://eeb.arizona.edu/person/regis-ferriere           
       - title: Rod A Wing
         text: Bud Antle Endowed Chair Professor, School of Plant Sciences, Ecology & Evolutionary Biology, Arizona Genomics Institute
-        image: assets/img/members/generic-icon.jpg
+        image: assets/img/members/Rod-Wing.jpg
         url: https://www.genome.arizona.edu/modules/smartpartner/      
       - title: Luciano Matzkin
         text: Associate Professor, Entomology and Insect Science
