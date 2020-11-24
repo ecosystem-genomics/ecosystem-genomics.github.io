@@ -194,5 +194,9 @@ sections:
     - title: E-Mail
       icon: fa-envelope
       url: mailto:BRIDGES.NRT@gmail.com
+    - title: Facebook
+      icon: fa-facebook
+      icon_type: fab
+      url: https://www.facebook.com/bridgesnrt
 
 ---
