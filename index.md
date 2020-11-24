@@ -165,7 +165,7 @@ sections:
         text: Director of Data Science, Agricultural Experiment Station 
         image: assets/img/members/David-Lebauer.jpg
         url: https://datascience.cals.arizona.edu/person/david-lebauer
-      - title: Michelle Higgens
+      - title: Michelle Higgins
         text: Associate Director, Office of Societal Impact
         image: assets/img/members/Michelle-Higgens.jpg
         url: https://stem.arizona.edu/person/michelle-higgins
