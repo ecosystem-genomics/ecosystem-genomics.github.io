@@ -127,7 +127,7 @@ sections:
         url: http://www.u.arizona.edu/~jlc/
       - title: Erin Leahey
         text: Professor and Director of Sociology
-        image: assets/img/members/generic-icon.jpg
+        image: assets/img/members/erin-leahey.jpg
         url: https://sociology.arizona.edu/people/erin-leahey
       - title: Malak Tfaily
         text: Assistant Professor, Environmental Science
@@ -143,7 +143,7 @@ sections:
         url: https://www.dlugosch-lab.net/ 
       - title: Regis Ferriere
         text: Associate Professor, Ecology and Evolutionary Biology
-        image: assets/img/members/generic-icon.jpg
+        image: assets/img/members/UA_Block_A.jpg
         url: https://eeb.arizona.edu/person/regis-ferriere           
       - title: Rod A Wing
         text: Bud Antle Endowed Chair Professor, School of Plant Sciences, Ecology & Evolutionary Biology, Arizona Genomics Institute
@@ -155,7 +155,7 @@ sections:
         url: https://matzkinlab.org/        
       - title: W. Duke Pauli
         text: Assistant Professor, School of Plant Sciences
-        image: assets/img/members/generic-icon.jpg
+        image: assets/img/members/w_duke_pauli.jpg
         url: https://thepaulilab.com/     
       - title: Yang Song
         text: Assistant Professor, Hydrology and Atmospheric Sciences
