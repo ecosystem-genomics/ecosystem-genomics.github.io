@@ -28,7 +28,7 @@ sections:
 
   text: >+ 
     Students in the BRIDGES program are enrolled as MS or PhD students in one of our seven constituent graduate programs. BRIDGES students complete their core coursework in their home unit with enrichment from our Ecosystem Genomics seminar course and an enhanced curriculum that will help students develop core and cutting-edge skills in theory and concepts relevant to genomics and ecosystem science; tools and data, including data analytics, computation, and statistics; communication and dissemination, including ethics; and intercultural awareness and collaboration.
-  image: 'assets/img/portfolio/thumbnails/at-the-classroom-P3CFGE2.jpg'
+  image: 'assets/img/portfolio/thumbnails/courses-for-phd.jpg'
 
 - type: picture-paragraph.html
   section_id: certs-and-minor
@@ -38,7 +38,7 @@ sections:
   text: >+ 
     Coming Soon!
   image: 
-    'assets/img/portfolio/thumbnails/girls-studying-in-the-classroom-MXFPYQ2.jpg'
+    'assets/img/portfolio/thumbnails/GIDP-minor.jpg'
 
 - type: picture-paragraph.html
   section_id: mentored-mentoring
@@ -47,7 +47,7 @@ sections:
 #  text_style: text-left text-white
   text: >+ 
     Students in the BRIDGES program will receive training in mentorship and have the opportunity to mentor junior researchers from Tucson High Magnet School and our UArizona campus, with support from BRIDGES faculty.
-  image: 'assets/img/portfolio/thumbnails/teacher-and-student-scientists-working-with-micros-8N7NJPR.jpg'
+  image: 'assets/img/portfolio/thumbnails/mentored-mentoring.jpg'
 
 - type: picture-paragraph.html
   section_id: professional-dev
@@ -57,7 +57,7 @@ sections:
   text: >+ 
     Coming Soon!
   image: 
-    'assets/img/portfolio/thumbnails/close-up-view-of-business-partner-handshaking-proc-XB9RXSK.jpg'
+    'assets/img/portfolio/thumbnails/professional-development.jpg'
 
 - type: picture-paragraph.html
   section_id: convergence-institute
@@ -67,7 +67,7 @@ sections:
   text: >+ 
     Each summer our NSF Research Traineeship (NRT) community comes together for a summit meeting that is equal parts science, training, inclusion, professional development, and science communication. Students pitch ideas and receive supportive feedback. Returning students describe their team-based experiences on internships. This is the flagship event of our program in which we grow and celebrate our diversity and scientific endeavors.
   image:
-    'assets/img/portfolio/thumbnails/conference-P37J6TX.jpg'
+    'assets/img/portfolio/thumbnails/bio5-conference.jpg'
 
 
 ---

@@ -72,23 +72,23 @@ sections:
         url: '/program-details.html#diversity-statement'
       - title: Graduate Courses 
         text: Courses for a PhD in Ecosystem Genomics  
-        icon: at-the-classroom-P3CFGE2.jpg
+        icon: courses-for-phd.jpg
         url: '/program-details.html#courses'
       - title: Certificate & PhD minor 
         text: MS Certificate and PhD GIDP minor 
-        icon: girls-studying-in-the-classroom-MXFPYQ2.jpg
+        icon: GIDP-minor.jpg
         url: '/program-details.html#certs-and-minor'
       - title: Mentorship
         text: Mentored Mentoring
-        icon: teacher-and-student-scientists-working-with-micros-8N7NJPR.jpg
+        icon: mentored-mentoring.jpg
         url: '/program-details.html#mentored-mentoring'
       - title: Professional Training & Development
         text: Professional Training & Development
-        icon: close-up-view-of-business-partner-handshaking-proc-XB9RXSK.jpg
+        icon: professional-development.jpg
         url: '/program-details.html#professional-dev'
       - title: Convergence Institute 
         text: Summer Program and Convergence Institute 
-        icon: conference-P37J6TX.jpg
+        icon: bio5-conference.jpg
         url: '/program-details.html#convergence-institute'
 
 
