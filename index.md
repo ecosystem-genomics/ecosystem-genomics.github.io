@@ -46,7 +46,7 @@ sections:
         icon: fa-tree
         url: https://environmentalscience.cals.arizona.edu/
       - title: EIS 
-        text: Department of Entomology 
+        text: Entomology and Insect Science
         icon: fa-bug
         url: https://insects.arizona.edu/
       - title: SNRE 
@@ -150,7 +150,7 @@ sections:
         image: assets/img/members/Rod-Wing.jpg
         url: https://www.genome.arizona.edu/modules/smartpartner/      
       - title: Luciano Matzkin
-        text: Associate Professor, Entomology and Insect Science
+        text: Associate Professor, Department of Entomology
         image: assets/img/members/Luciano-Matzkin.png
         url: https://matzkinlab.org/        
       - title: W. Duke Pauli
