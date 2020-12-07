@@ -198,5 +198,13 @@ sections:
       icon: fa-facebook
       icon_type: fab
       url: https://www.facebook.com/bridgesnrt
+    - title: Instagram
+      icon: fa-instagram
+      icon_type: fab
+      url: https://www.instagram.com/uaz_bridges_nrt/
+    - title: Twitter
+      icon: fa-twitter
+      icon_type: fab
+      url: https://twitter.com/UAZ_bridges_nrt
 
 ---
