@@ -58,38 +58,43 @@ sections:
         icon: fa-tint
         url: https://has.arizona.edu/
 
+  - type: wide_image.html
+    projects:
+      - title: 
+        text: Our Values
+        icon: hands-cropped.jpg
+        url: '/program-details.html#our-values'
+
   - type: portfolio.html
     # this section has always ID 'portfolio'
     #section_id: portfolio 
     #background_style: bg-dark
     projects:
-      - title: Diversity 
-        text: Diversity & Inclusion 
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: young-people-putting-their-hands-together-UBC4Q32.jpg
-        url: '/program-details.html#diversity-statement'
-      - title: Graduate Courses 
-        text: Courses for a PhD in Ecosystem Genomics  
+      - title:  
+        text: Innovative Curriculum for MS/PhD minor in Ecosystem
         icon: courses-for-phd.jpg
         url: '/program-details.html#courses'
-      - title: Certificate & PhD minor 
-        text: MS Certificate and PhD GIDP minor 
+      - title:
+        text: Cultures of Science Training 
         icon: GIDP-minor.jpg
-        url: '/program-details.html#certs-and-minor'
-      - title: Mentorship
-        text: Mentored Mentoring
+        url: '/program-details.html#cultures-of-science'
+      - title: 
+        text: Team-based Research Internship Experience   
+        icon: crop-truck.jpg
+        url: '/program-details.html#team-based-research'
+      - title: 
+        text: Teaching/Outreach Experience
         icon: mentored-mentoring.jpg
-        url: '/program-details.html#mentored-mentoring'
-      - title: Professional Training & Development
-        text: Professional Training & Development
+        url: '/program-details.html#teaching-and-outreach'
+      - title: 
+        text: Professional Development
         icon: professional-development.jpg
         url: '/program-details.html#professional-dev'
-      - title: Convergence Institute 
-        text: Summer Program and Convergence Institute 
+      - title: 
+        text: Convergence Institute 
         icon: bio5-conference.jpg
         url: '/program-details.html#convergence-institute'
+
 
 
   - type: members.html
