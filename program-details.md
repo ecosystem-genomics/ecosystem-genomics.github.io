@@ -19,6 +19,7 @@ sections:
   text:
     We are committed to building an inclusive and equitable training and research environment that supports a diverse cohort of trainees, faculty, and partners. We strongly encourage and welcome applications from candidates representing all forms of diversity.
   image: 'assets/img/portfolio/thumbnails/young-people-putting-their-hands-together-UBC4Q32.jpg'
+  img_description: Young people stacking their hands on top of one another
 
 - type: picture-paragraph.html
   section_id: courses
@@ -39,10 +40,11 @@ sections:
   title: Cultures of Science Training
 #  background_style: bg-info
 #  text_style: text-left text-white
+  img_description: >+
+    A female research specialist installs soil gas sampling probes in a soil pit in the Biosphere 2 Tropical Rainforest. Photo credit: Gemma Purser
   text: >+ 
     Cultures of Science Training is based on the insight that truly transdisciplinary research is not just a technical challenge, but also one of bridging cultural differences among disciplines. The Cultures of Science research and training embraces science as a culturally infused practice with distinct and diverse ways of knowing. Each first year trainee will participate in workshops focusing on the special professional opportunities and challenges of interdisciplinary research.
-  image: 
-    'assets/img/portfolio/thumbnails/GIDP-minor.jpg'
+  image: 'assets/img/portfolio/thumbnails/GIDP-minor.jpg'
 
 - type: picture-paragraph.html
   section_id: teaching-and-outreach
@@ -52,6 +54,7 @@ sections:
   text: >+ 
     Every NRT trainee will have the opportunity to mentor an undergraduate or high school researcher for at least one semester or summer, with a focus on students from thriving minority-recruiting/ retention programs at UArizona and through local partners in Tucson. Trainees will gain professional skills by teaching in an undergraduate course relevant to their discipline and completing 20 hours of public engagement per year, with opportunities to serve as judges at local and regional science fairs and to present at UArizona public outreach events. 
   image: 'assets/img/portfolio/thumbnails/mentored-mentoring.jpg'
+  img_description: A female college student looks at a microscope slide with a female high school intern. Both wear lab coats. Photo provided by BIO5 Institute
 
 - type: picture-paragraph.html
   section_id: team-based-research
@@ -69,8 +72,9 @@ sections:
 #  text_style: text-left text-white
   text: >+ 
     NRT trainees will receive training in professional leadership and communication at a half-day, engagement-style workshop led each year by university and partner leaders. NRT trainees will also participate twice per semester in active-learning, 2-hr seminars led by key NRT faculty.
-  image: 
-    'assets/img/portfolio/thumbnails/professional-development.jpg'
+  image: 'assets/img/portfolio/thumbnails/professional-development.jpg'
+  img_description: >+
+    A male PhD student works on equipment high above an Amazon rain forest. Photo credit: Jake Bryant
 
 - type: picture-paragraph.html
   section_id: convergence-institute
@@ -79,8 +83,9 @@ sections:
 #  text_style: text-left text-white
   text: >+ 
      Each summer, our NRT community comes together for a 3.5 day summit meeting that is equal parts science, training, inclusion, professional development, and science communication. Year one NRT trainees  advance proposals and receive supportive feedback. Returning  trainees present results from their team-based internship experiences. Participants expand their skills in outreach, inclusion, and professional collaboration in a transdisciplinary setting. This is the flagship event of our program in which we grow and celebrate our diversity and scientific endeavors.
-  image:
-    'assets/img/portfolio/thumbnails/bio5-conference.jpg'
+  image: 'assets/img/portfolio/thumbnails/bio5-conference.jpg'
+  img_description: A group of students and faculty watch a male researcher presenting in a conference room. Photo provided by BIO5 Institute
+
 
 
 ---
