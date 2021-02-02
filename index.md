@@ -71,7 +71,7 @@ sections:
     #background_style: bg-dark
     projects:
       - title:  
-        text: Innovative Curriculum for MS/PhD minor in Ecosystem
+        text: MS/PhD Curriculm
         icon: courses-for-phd.jpg
         url: '/program-details.html#courses'
       - title:
@@ -79,11 +79,11 @@ sections:
         icon: GIDP-minor.jpg
         url: '/program-details.html#cultures-of-science'
       - title: 
-        text: Team-based Research Internship Experience   
+        text: Team-based Research Internships
         icon: crop-truck.jpg
         url: '/program-details.html#team-based-research'
       - title: 
-        text: Teaching/Outreach Experience
+        text: Teaching/Outreach
         icon: mentored-mentoring.jpg
         url: '/program-details.html#teaching-and-outreach'
       - title: 
