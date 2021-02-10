@@ -23,7 +23,7 @@ sections:
 
 - type: picture-paragraph.html
   section_id: courses
-  title: Courses
+  title: Innovative Curriculum for MS/PhD minor in Ecosystem
 #  background_style: bg-info
 #  text_style: text-left text-white
 

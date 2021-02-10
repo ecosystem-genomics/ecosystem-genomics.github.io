@@ -79,7 +79,7 @@ sections:
         icon: GIDP-minor.jpg
         url: '/program-details.html#cultures-of-science'
       - title: 
-        text: Team-based Research Internships
+        text: Team Research Internships
         icon: crop-truck.jpg
         url: '/program-details.html#team-based-research'
       - title: 
