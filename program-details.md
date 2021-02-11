@@ -48,7 +48,7 @@ sections:
 
 - type: picture-paragraph.html
   section_id: teaching-and-outreach
-  title: Teaching/Outreach Experience 
+  title: Teaching/Outreach Experiences
 #  background_style: bg-info
 #  text_style: text-left text-white
   text: >+ 

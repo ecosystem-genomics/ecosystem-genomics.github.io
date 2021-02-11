@@ -148,7 +148,7 @@ sections:
         url: https://www.dlugosch-lab.net/ 
       - title: Regis Ferriere
         text: Associate Professor, Ecology and Evolutionary Biology
-        image: assets/img/members/UA_Block_A.jpg
+        image: assets/img/members/Regis-Ferriere.jpg
         url: https://eeb.arizona.edu/person/regis-ferriere           
       - title: Rod A Wing
         text: Bud Antle Endowed Chair Professor, School of Plant Sciences, Ecology & Evolutionary Biology, Arizona Genomics Institute
