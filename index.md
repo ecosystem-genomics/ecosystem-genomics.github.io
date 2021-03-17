@@ -20,6 +20,14 @@ sections:
       - title: Participating Programs
         url: '/#services'
         class: btn-light
+    text2: >+
+      For additional information on BRIDGES, visit the Program Elements tab or click here:
+    action2:
+      - title : Download Document
+        url: 'download/BRIDGES_detailed_document.pdf'
+        class: btn-light
+
+
 
 
   - type: services.html
