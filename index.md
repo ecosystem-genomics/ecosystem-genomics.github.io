@@ -23,7 +23,7 @@ sections:
     text2: >+
       For additional information on BRIDGES, visit the Program Elements tab or click here:
     action2:
-      - title : Download Document
+      - title : Download information
         url: 'download/BRIDGES_detailed_document.pdf'
         class: btn-light
 
