@@ -83,11 +83,11 @@ sections:
         icon: courses-for-phd.jpg
         url: '/program-details.html#courses'
       - title:
-        text: Cultures of Science Training 
+        text: Cultures of Science
         icon: GIDP-minor.jpg
         url: '/program-details.html#cultures-of-science'
       - title: 
-        text: Team Research Internships
+        text: Team Research
         icon: crop-truck.jpg
         url: '/program-details.html#team-based-research'
       - title: 
@@ -95,7 +95,7 @@ sections:
         icon: mentored-mentoring.jpg
         url: '/program-details.html#teaching-and-outreach'
       - title: 
-        text: Professional Development
+        text: Professional Training
         icon: professional-development.jpg
         url: '/program-details.html#professional-dev'
       - title: 
