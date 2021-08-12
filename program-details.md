@@ -31,7 +31,7 @@ sections:
     NRT trainees major in one of the core graduate programs, with mentorship or co-mentorship by NRT faculty, completing discipline-specific courses on a normal schedule that encompass foundations in both ecosystem and genomic sciences, the two pillars of the BRIDGE. Where appropriate, trainees will fulfill their major requirements via courses taught by NRT faculty and affiliates while completing an Ecosystem Genomics minor (PhD students, through a new Graduate Interdisciplinary Program) or certificate (MS students). 
 
 
-    Trainees also enroll for one semester per year in our weekly 1-credit Ecosystem Genomics Seminar, which features special training sessions, invited speakers and in-class discussions. 
+    Trainees also enroll for two consecutive semesters in our weekly Ecosystem Genomics Seminar, which features special training sessions, invited speakers and in-class discussions.
 
   image: 'assets/img/portfolio/thumbnails/courses-for-phd.jpg'
   img_description: >+ 
@@ -65,7 +65,7 @@ sections:
 #  background_style: bg-info
 #  text_style: text-left text-white
   text: >+ 
-    Research training will be fostered through  ‘ecosystem genomics’ internship opportunities in settings such as UArizona or national labs, startup or established companies, crop research institutes in the U.S. or the Philippines, or experimental facilities such as the Ecotron in France or Biosphere2 at UArizona. NRT trainees will assemble into teams to develop their research project ideas into proposals over the course of the first year, present these for feedback at the annual Convergence Institute (see below), and then implement the research at the internship site. We aim for  research teams to publish their internship results as co-first authored work in a process that develops their team-based skills to address the challenges of interdisciplinary work.
+    Research training will be fostered through ‘ecosystem genomics’ opportunities in settings such as UArizona or national labs, startup or established companies, crop research institutes in the U.S. or the Philippines, or experimental facilities such as the Ecotron in France or Biosphere2 at UArizona. NRT trainees will assemble into teams to develop their research project ideas into proposals over the course of the first year, present these for feedback at the annual Convergence Institute (see below), and then implement the research at the site. We aim for research teams to publish their results as co-first authored work in a process that develops their team-based skills to address the challenges of interdisciplinary work.
   image: 'assets/img/portfolio/thumbnails/crop-truck.jpg'
   img_description: >+
     Members of the Pauli Lab harvest heads of lettuce grown underneath the UA Field Scanner, the world's largest phenotyping robot, to study impacts of abiotic stress on plant growth and productivity. Photo credit: W. Duke Pauli
