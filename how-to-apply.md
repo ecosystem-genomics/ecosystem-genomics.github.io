@@ -25,7 +25,7 @@ sections:
 #  background_style: bg-info
 #  text_style: text-left text-white
   text: >+
-    All who are applying to one of UA’s seven graduate programs [(EEB, SPLS, ENVS, BE, HAS, SNRE, EIS)](./#services) for matriculation in fall 2021 are encouraged to apply to join NSF BRIDGES’ first training cohort!   U.S. Citizens and permanent residents are also eligible to apply to competitive NRT fellowships of $34,000 per year for up to two years.  Those not eligible for fellowships are nonetheless encouraged to apply to our program, to avail themselves of the program’s benefits including  interdisciplinary training, travel funding, and opportunities in professional development, and outreach. BRIDGES (and accepting home departments) will work with accepted international students to identify possible paths of funding support.
+    All who are applying to one of UA’s seven graduate programs (EEB, SPLS, ENVS, BE, HAS, SNRE, EIS) for matriculation in fall 2022 are encouraged to apply to join NSF BRIDGES’ second training cohort! U.S. Citizens and permanent residents are also eligible to apply to competitive NRT fellowships of $34,000 per year for up to two years. Those not eligible for fellowships are nonetheless encouraged to apply to our program, to avail themselves of the program’s benefits including interdisciplinary training, travel funding, and opportunities in professional development, and outreach. BRIDGES (and accepting home departments) will work with accepted international students to identify possible paths of funding support.
   actions:
   - title: View Eligible Degree Programs
     url: '/#services'
@@ -45,7 +45,7 @@ sections:
 #  background_style: bg-info
 #  text_style: text-left text-white
   text: >+
-    Fill out an application by clicking the Apply Now button below. The application includes a ½-to-1 page statement of interest in the BRIDGES program plus a 1-2 page statement of your research interests, a CV or resume, and transcripts (unofficial transcripts are acceptable). Applications for fellowship funding received by December 1, 2020 will have priority, but we will consider applications on a rolling basis if fellowships remain available.
+    Fill out an application by clicking the Apply Now button below. The application includes a ½-to-1 page statement of interest in the BRIDGES program plus a 1-2 page statement of your research interests, a CV or resume, and transcripts (unofficial transcripts are acceptable). Applications for fellowship funding received by December 3, 2021 will have priority, but we will consider applications on a rolling basis if fellowships remain available.
 
 - type: paragraph.html
   section_id: contact info

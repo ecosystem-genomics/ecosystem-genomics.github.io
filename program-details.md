@@ -87,7 +87,7 @@ sections:
 #  background_style: bg-info
 #  text_style: text-left text-white
   text: >+ 
-     Each summer, our NRT community comes together for a 3.5 day summit meeting that is equal parts science, training, inclusion, professional development, and science communication. Year one NRT trainees  advance proposals and receive supportive feedback. Returning  trainees present results from their team-based internship experiences. Participants expand their skills in outreach, inclusion, and professional collaboration in a transdisciplinary setting. This is the flagship event of our program in which we grow and celebrate our diversity and scientific endeavors.
+     Each summer, our NRT community comes together for a 3.5 day summit meeting that is equal parts science, training, inclusion, professional development, and science communication. Year one NRT trainees  advance proposals and receive supportive feedback. Returning trainees present results from their team-based research experiences. Participants expand their skills in outreach, inclusion, and professional collaboration in a transdisciplinary setting. This is the flagship event of our program in which we grow and celebrate our diversity and scientific endeavors.
   image: 'assets/img/portfolio/thumbnails/bio5-conference.jpg'
   img_description: >+
     A group of students and faculty watch a male researcher presenting in a conference room. Photo credit: BIO5 Institute
