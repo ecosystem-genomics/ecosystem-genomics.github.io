@@ -25,7 +25,7 @@ sections:
 #  background_style: bg-info
 #  text_style: text-left text-white
   text: >+
-    All who are applying to one of UA’s seven graduate programs (EEB, SPLS, ENVS, BE, HAS, SNRE, EIS) for matriculation in fall 2022 are encouraged to apply to join NSF BRIDGES’ second training cohort! U.S. Citizens and permanent residents are also eligible to apply to competitive NRT fellowships of $34,000 per year for up to two years. Those not eligible for fellowships are nonetheless encouraged to apply to our program, to avail themselves of the program’s benefits including interdisciplinary training, travel funding, and opportunities in professional development, and outreach. BRIDGES (and accepting home departments) will work with accepted international students to identify possible paths of funding support.
+    All who are applying to one of UA’s seven graduate programs (EEB, SPLS, ENVS, BE, HAS, SNRE, EIS) for matriculation in fall 2022 are encouraged to apply to join NSF BRIDGES’ second training cohort! U.S. Citizens and permanent residents are also eligible to apply to competitive NRT fellowships of $34,000 per year for up to two years. Those not eligible for fellowships are nonetheless encouraged to apply to our program **as participants** , to avail themselves of the program’s benefits including interdisciplinary training, travel funding, and opportunities in professional development, and outreach. BRIDGES (and accepting home departments) will work with accepted international students to identify possible paths of funding support.
   actions:
   - title: View Eligible Degree Programs
     url: '/#services'
