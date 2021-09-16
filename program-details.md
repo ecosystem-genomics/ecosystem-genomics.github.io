@@ -54,7 +54,7 @@ sections:
 #  background_style: bg-info
 #  text_style: text-left text-white
   text: >+ 
-    Every NRT trainee will have the opportunity to mentor an undergraduate or high school researcher for at least one semester or summer, with a focus on students from thriving minority-recruiting/ retention programs at UArizona and through local partners in Tucson. Trainees will gain professional skills by teaching in an undergraduate course relevant to their discipline and completing 20 hours of public engagement per year, with opportunities to serve as judges at local and regional science fairs and to present at UArizona public outreach events. 
+    Every NRT trainee will have the opportunity to mentor an undergraduate or high school researcher for at least one semester or summer, with a focus on students from thriving minority-recruiting/ retention programs at UArizona and through local partners in Tucson. Trainees will gain professional skills by teaching in an undergraduate course relevant to their discipline and completing 20 hours of public engagement, with opportunities to serve as judges at local and regional science fairs and to present at UArizona public outreach events. 
   image: 'assets/img/portfolio/thumbnails/mentored-mentoring.jpg'
   img_description: >+
     A female college student looks at a microscope slide with a female high school intern. Both wear lab coats. Photo credit: BIO5 Institute
