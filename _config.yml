@@ -3,7 +3,7 @@ title: BRIDGES
 description: > # this means to ignore newlines until "baseurl:"
 #baseurl: "/blog/" # the subpath of your site, e.g. /blog/
 url: "https://ecosystem-genomics.github.io/" # the base hostname & protocol for your site
-author: Copyright &copy; 2020 - BRIDGES 
+author: Copyright &copy; 2021 - BRIDGES 
 lang: en_US
 
 # Build settings

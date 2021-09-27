@@ -23,7 +23,7 @@ sections:
         answer: Yes. All eligible matriculating UArizona students with an interest in Ecosystem Genomics can apply to the BRIDGES training program as participants, independent of nationality.  NSF guidelines specify that eligibility for BRIDGES fellowships is limited to U.S. citizens and Permanent Residents. For international students, other sources of support for graduate studies (such as research assistantships, teaching assistantships, other kinds of fellowships, etc.) may be available, and such students are welcome to apply to become BRIDGES trainees.
       - question: I am a Permanent Resident. Can I apply for the BRIDGES fellowship for funding?
         answer: Yes. Permanent Residents may apply for BRIDGES fellowships for funding. 
-      - question: What costs are covered by BRIDGES fellowship funding?BRIDGES fellowship for funding?
+      - question: What costs are covered by BRIDGES fellowship funding? BRIDGES fellowship for funding?
         answer: The fellowship provides a $34,000 annual living stipend for up to two years, and during this time also covers tuition and mandatory university fees, with an option for student-only health insurance for those not otherwise covered. A limited amount of additional funding is available for publication page charges, student project implementation costs, and/or travel and expenses for remote research experiences. 
       - question: What is the timeline from application to acceptance?
         answer: Applications are due December 3, 2021 and the first review begins in mid-December. Second reviews and interviews occur in January and February. New applications will be considered as long as there are still spaces and funding available. 
