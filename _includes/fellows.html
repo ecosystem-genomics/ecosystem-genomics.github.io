@@ -1,0 +1,36 @@
+<!-----Fellows Template
+This is a custom template to display the fellows information. Include in main templates using the following format
+
+ - type: fellows.html
+    section_id: fellows 
+    title: Trainees
+    background_style: bg-info text-white
+    fellows:
+      - title: [Fellow 1 Name]
+        bio: [Fellow 1 Biography]
+        image: [Path to Fellow 1 headshot]
+      - title: [Fellow 2 Name]
+        bio: [Fellow 2 Biography]
+        image: [Path to Fellow 2 headshot]
+
+  --->
+<section class="page-section {{ section.background_style }}" id="{{ section.section_id }}">
+  <div class="container">
+    <br>
+      {% for fellows in section.fellows %}
+      <div class="row">
+        <div class="col-md-4 text-center">
+          <div class="member-box">
+            <img class="img-fluid" src="{{ fellows.image }}" style="height:200px width:200px"/>
+            <h3 class="h4 mb-2">{{ fellows.title | newline_to_br | markdownify }}</h3>   
+        </div>
+      </div>
+        <div class="col-sm-8 align-middle">
+            <br>
+            <p> {{ fellows.bio | newline_to_br | markdownify }} </p>
+        </div>
+      </div>
+      <br>
+    {% endfor %}
+  </div>
+</section>

@@ -13,6 +13,10 @@ header:
   url: /#portfolio
 - title: Faculty 
   url: /#members
+- title: Trainees
+  url: /trainees
+- title: FAQ
+  url: /faq
 - title: Contact
   url: /#contact
 - title: Apply

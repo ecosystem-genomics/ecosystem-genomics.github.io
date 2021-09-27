@@ -190,6 +190,7 @@ sections:
         image: assets/img/members/Heather-Ingram.jpg
 
 
+
   - type: aside.html
     section_id: apply 
     title: Apply to the Graduate Fellowship and Training Program 
