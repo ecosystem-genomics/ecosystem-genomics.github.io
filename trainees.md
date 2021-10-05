@@ -18,6 +18,9 @@ sections:
       - title: Pablo Arán Sekul (he/him)
         bio: Born and raised in Antofagasta, Chile, I have dedicated all my university and work in the area of Microbiology and Microbial Ecology in extreme environments, specifically in the Atacama Desert, the desert where I grew up. My interest has always been to determine what microorganisms are in a specific environment and how they can survive harsh life conditions (for humans) using molecular and bioinformatics tools. I consider myself a lover of the desert and its secrets. I am an incoming PhD student working in the Saleska and Barberán labs.
         image: assets/img/fellows/pablo_aran_sekul.jpg
+      - title: Christian Ayala Ortiz (he/him)
+        bio: I began working on my PhD in Environmental Science in January 2021, under the supervision of Dr. Malak Tfaily. My current research interests include the use of multi-omics data to study the interaction between the environment and the microbial communities, and how it affects carbon and nutrient cycling. I am especially interested in the development of data analysis pipelines that allows to take full advantage of the available high throughput data.
+        image: assets/img/fellows/christian_ayala_ortiz.jpeg
       - title: Rebecca Bland (she/her) 
         bio: I am from Durham, North Carolina, but recently finished a Master of Forestry and a Master of Arts in Religion at Yale University. I'll be starting a PhD in Ecology and Evolutionary Biology at the University of Arizona with Dr. Katrina Dlugosch this fall. I am interested in species invasion and rapid evolution, especially in the context of interspecific interaction. After three years being the "science person" in Divinity School, I also have a heart for science communication, and I enjoy making science understandable to diverse audiences. 
         image: assets/img/fellows/Rebecca_Bland.jpeg
