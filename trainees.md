@@ -15,9 +15,9 @@ sections:
     title: Trainees
     background_style: bg-info text-white
     fellows:
-      - title: Adalee Martiez
-        bio: My name is Adalee Martiez (she, her and hers). I am a native Tucsonan and I have a bachelor's in the College of Agriculture and Life Sciences at the University of Arizona. I am pursuing an M.S. in the Environmental Science program while being advised by Albert Barberan in his Microbial Macroecology lab. My main research interest is in microbial ecology, I like to study the environment on a micro scale in order to apply it to larger ecosystem studies. I am currently looking at the distribution and dispersal of microbes in relation to biogeography.
-        image: assets/img/fellows/Adalee_Martinez.jpg
+      - title: Pablo Arán Sekul (he/him)
+        bio: Born and raised in Antofagasta, Chile, I have dedicated all my university and work in the area of Microbiology and Microbial Ecology in extreme environments, specifically in the Atacama Desert, the desert where I grew up. My interest has always been to determine what microorganisms are in a specific environment and how they can survive harsh life conditions (for humans) using molecular and bioinformatics tools. I consider myself a lover of the desert and its secrets. I am an incoming PhD student working in the Saleska and Barberán labs.
+        image: assets/img/fellows/pablo_aran_sekul.jpg
       - title: Megan Nickerson
         bio: My name is Megan Nickerson (she/her/hers), and I graduated with a Bachelor of Science in microbiology and a minor in biochemistry from the University of Arizona Honors College in May 2021. Beginning in Fall 2021, I will be pursuing a Ph.D. in environmental science. My BRIDGES NRT program co-advisors will be Dr. Malak Tfaily and Dr. Jana U'Ren. My primary research interest is in the intersection between endophytic fungi and the chemical environment of their hosts. I aim to use genomics and molecular biology to identify the genetic basis for microbial functional traits and then use this knowledge to better understand patterns of microbial community assembly, biodiversity, nutrient cycling, and ecosystem function.
         image: assets/img/fellows/Megan_Nickerson.jpg
