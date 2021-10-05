@@ -33,12 +33,12 @@ sections:
       - title: Savannah Fuqua (she/her)
         bio: I received an Environmental Biology degree from Washington University in St Louis where I conducted a senior thesis on the role soil microbes play in mediating plant-pollinator interactions. Since graduating, I have worked primarily with Point Reyes National Seashore Association as a vegetation and restoration ecology intern. This fall I will be joining the University of Arizona’s Ecology and Evolutionary Biology PhD program where I will be co-advised by Judith Bronstein and Rachel Gallery. I plan to continue investigating the role that the belowground microbial community plays in shaping the ecology and evolution of aboveground mutualisms. 
         image: assets/img/fellows/savannah_fuqua.jpg
-      - title: Zoe Jensen
-        bio: My name is Zoe Jensen (she/her/hers). I am excited to be pursuing a PhD in the Entomology and Insect Sciences GIDP at Uarizona with Dr. Matzkin as my NRT advisor. I received my bachelor’s degree at Cal Poly SLO in agriculture and plant sciences with a minor in biology. I hope to improve agricultural pest management techniques and global food stability through insect science and genetics. My pronouns are she/her.
+      - title: Zoe Jensen (she/her)
+        bio: I am excited to be pursuing a PhD in the Entomology and Insect Sciences GIDP at the University of Arizona with Dr. Matzkin as my NRT advisor. I received my bachelor’s degree at Cal Poly SLO in agriculture and plant sciences with a minor in biology. I hope to improve agricultural pest management techniques and global food stability through insect science and genetics.
         image: assets/img/fellows/Zoe_Jensen.jpeg
-      - title: Meara Clark
-        bio: I am Meara Clark (she/her/hers). In 2016 I graduated from the University of Arizona with a degree in Molecular and Cellular Biology. My first job after college was working as a research technician in the Baltrus Lab and my project studied the role of tailocins in microbe-microbe interactions. Currently, I am pursuing a MS in Natural Resources from the School of Natural Resources and the Environment and work with Dr. Laura Meredith studying the effects of drought on soil microbes. My research interests are focused on discovering the genetic mechanisms behind the complex interactions that exist in a microbial community. Then using that information to understand how these interactions fit into the larger picture of an ecosystem.
-        image: assets/img/fellows/Meara_Clark.jpg
+      - title: Ghiwa Makke (she/her)
+        bio: I have a MS in Molecular Biology with an emphasis on microbial genetics from the Lebanese American University. I have been accepted into the Environmental Science PhD program at the University of Arizona under the supervision of Dr. Malak Tfaily. I am very interested in research involving the interaction between microorganisms and their environment and its impact on the entire biosphere.
+        image: assets/img/fellows/Ghiwa_Makke.jpg
       - title: Changpeng Fan
         bio: My name is Changpeng Fan (he/him/his) and I am a Ph.D. student in the Dept. of Hydrology and Atmospheric Science at the University of Arizona, advised by Dr. Yang Song. I am interested in climate and land feedback, focusing on the hydrology cycle, microbial-mediated soil carbon, nutrient cycle, and vegetation dynamics.
         image: assets/img/fellows/Changpeng_Fan.jpg
