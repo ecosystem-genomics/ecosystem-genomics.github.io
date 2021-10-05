@@ -42,6 +42,9 @@ sections:
       - title: Adalee Martinez  (she/her)
         bio: I am a native Tucsonan and I have a BS from the College of Agriculture and Life Sciences at the University of Arizona. I am pursuing an MS in Environmental Science, advised by Albert Barberán in his Microbial Macroecology lab. My main research interest is in microbial ecology. I like to study the environment on a micro scale in order to apply it to larger ecosystem studies. I am currently looking at the distribution and dispersal of microbes in relation to biogeography. 
         image: assets/img/fellows/Adalee_Martinez.jpg
+      - title: Megan Nickerson (she/her)
+        bio: I graduated with a  BS in Microbiology and minor in Biochemistry from the University of Arizona Honors College in May. Beginning in Fall 2021, I will be pursuing a PhD in Environmental Science. My BRIDGES NRT program co-advisors will be Dr. Malak Tfaily and Dr. Jana U'Ren. My primary research interest is in the intersection between endophytic fungi and the chemical environment of their hosts. I aim to use genomics and molecular biology to identify the genetic basis for microbial functional traits and then use this knowledge to better understand patterns of microbial community assembly, biodiversity, nutrient cycling, and ecosystem function.
+        image: assets/img/fellows/megan_nickerson.jpg
 ---
 
 
