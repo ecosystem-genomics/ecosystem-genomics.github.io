@@ -27,8 +27,9 @@ sections:
       - title: Changpeng Fan (he/him) 
         bio: I am an incoming PhD student in the Department of Hydrology and Atmospheric Science at the University of Arizona, advised by Dr. Yang Song. I am interested in climate and land feedback, focusing on the hydrology cycle, microbial-mediated soil carbon, nutrient cycle, and vegetation dynamics.
         image: assets/img/fellows/Changpeng_Fan.jpg
-      - title: Rebecca Bland
-        bio: I'm Rebecca Bland (she/her/hers) from Durham, North Carolina, but am currently finishing up a Master of Forestry and a Master of Arts in Religion at Yale University. I'll be starting a PhD in Ecology and Evolutionary Biology at UArizona with Dr. Katrina Dlugosch in the fall. I am interested in species invasion and rapid evolution, especially in the context of interspecific interaction. After three years being the "science person" in Divinity School, I also have a heart for science communication, and I enjoy making science understandable to diverse audiences.
+      - title: Viviana Freire Zapata (she/her)
+        bio: I am a Doctoral student at the Department of Environmental Sciences at University of Arizona
+        working with Malak Tfaily, PhD. My research interest focuses on understanding the role of biotic and abiotic interactions on ecosystems as a response to disturbance and/or stress. I am interested on the integration of multi-omics data to analyze the underlying processes on ecosystems such as arid soils, thawing permafrost peatlands and agricultural systems.
         image: assets/img/fellows/Rebecca_Bland.jpeg
       - title: Taylor Portman
         bio: Hello, my name is Taylor Portman (she/ her). I am from Albuquerque, NM, and love all things outdoors! I completed my B.S. in biochemistry at the University of New Mexico where I did a senior research project on the impact of uranium mining legacy on root-associated fungal communities of the native grass Bouteloua gracilis. At the University of Arizona, I am pursuing a Master's in Environmental Science under the mentorship of Dr. Betsy Arnold and Dr. Malak Tfaily. I am interested in how fungi participate in the cycling of nutrients in an ecosystem and how these interactions shape the environment.
