@@ -30,9 +30,9 @@ sections:
       - title: Viviana Freire Zapata (she/her)
         bio: I am a Doctoral stuend at the Department of Environmental Sciences at U of A working with Malak Tfaily, PhD. My research interest focuses on understanding the role of biotic and abiotic interactions on ecosystems as a response to disturbance and/or stress. I am interested on the integration of multi-omics data to analyze the underlying processes on ecosystems such as arid soils, thawing permafrost peatlands and agricultural systems.
         image: assets/img/fellows/viviana_freire_zapata.jpeg
-      - title: Taylor Portman
-        bio: Hello, my name is Taylor Portman (she/ her). I am from Albuquerque, NM, and love all things outdoors! I completed my B.S. in biochemistry at the University of New Mexico where I did a senior research project on the impact of uranium mining legacy on root-associated fungal communities of the native grass Bouteloua gracilis. At the University of Arizona, I am pursuing a Master's in Environmental Science under the mentorship of Dr. Betsy Arnold and Dr. Malak Tfaily. I am interested in how fungi participate in the cycling of nutrients in an ecosystem and how these interactions shape the environment.
-        image: assets/img/fellows/Taylor_Portman.jpg
+      - title: Savannah Fuqua (she/her)
+        bio: I received an Environmental Biology degree from Washington University in St Louis where I conducted a senior thesis on the role soil microbes play in mediating plant-pollinator interactions. Since graduating, I have worked primarily with Point Reyes National Seashore Association as a vegetation and restoration ecology intern. This fall I will be joining the University of Arizona’s Ecology and Evolutionary Biology PhD program where I will be co-advised by Judith Bronstein and Rachel Gallery. I plan to continue investigating the role that the belowground microbial community plays in shaping the ecology and evolution of aboveground mutualisms. 
+        image: assets/img/fellows/savannah_fuqua.jpg
       - title: Zoe Jensen
         bio: My name is Zoe Jensen (she/her/hers). I am excited to be pursuing a PhD in the Entomology and Insect Sciences GIDP at Uarizona with Dr. Matzkin as my NRT advisor. I received my bachelor’s degree at Cal Poly SLO in agriculture and plant sciences with a minor in biology. I hope to improve agricultural pest management techniques and global food stability through insect science and genetics. My pronouns are she/her.
         image: assets/img/fellows/Zoe_Jensen.jpeg
