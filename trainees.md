@@ -33,10 +33,10 @@ sections:
       - title: Viviana Freire Zapata (she/her)
         bio: I am a Doctoral student at the Department of Environmental Sciences at University of Arizona
         working with Malak Tfaily, PhD. My research interest focuses on understanding the role of biotic and abiotic interactions on ecosystems as a response to disturbance and/or stress. I am interested on the integration of multi-omics data to analyze the underlying processes on ecosystems such as arid soils, thawing permafrost peatlands and agricultural systems.
-        image: assets/img/fellows/viviana_freire_zapata.jpeg
+        image: assets/img/fellows/viviana_freire_zapata.
       - title: Savannah Fuqua (she/her)
         bio: I received an Environmental Biology degree from Washington University in St Louis where I conducted a senior thesis on the role soil microbes play in mediating plant-pollinator interactions. Since graduating, I have worked primarily with Point Reyes National Seashore Association as a vegetation and restoration ecology intern. This fall I will be joining the University of Arizona’s Ecology and Evolutionary Biology PhD program where I will be co-advised by Judith Bronstein and Rachel Gallery. I plan to continue investigating the role that the belowground microbial community plays in shaping the ecology and evolution of aboveground mutualisms. 
-        image: assets/img/fellows/savannah_fuqua.jpg
+        image: assets/img/fellows/savannah_fuqua
       - title: Zoe Jensen (she/her)
         bio: I am excited to be pursuing a PhD in the Entomology and Insect Sciences GIDP at the University of Arizona with Dr. Matzkin as my NRT advisor. I received my bachelor’s degree at Cal Poly SLO in agriculture and plant sciences with a minor in biology. I hope to improve agricultural pest management techniques and global food stability through insect science and genetics.
         image: assets/img/fellows/Zoe_Jensen.jpeg
@@ -48,7 +48,7 @@ sections:
         image: assets/img/fellows/Adalee_Martinez.jpg
        - title: Megan Nickerson (she/her)
         bio: I graduated with a  BS in Microbiology and minor in Biochemistry from the University of Arizona Honors College in May. Beginning in Fall 2021, I will be pursuing a PhD in Environmental Science. My BRIDGES NRT program co-advisors will be Dr. Malak Tfaily and Dr. Jana U'Ren. My primary research interest is in the intersection between endophytic fungi and the chemical environment of their hosts. I aim to use genomics and molecular biology to identify the genetic basis for microbial functional traits and then use this knowledge to better understand patterns of microbial community assembly, biodiversity, nutrient cycling, and ecosystem function.
-        image: assets/img/fellows/megan_nickerson.jpg  
+        image: assets/img/fellows/Changpeng_Fan.jpg       
       - title: Taylor Portman (she/ her) 
         bio: I am from Albuquerque, NM, and love all things outdoors! I completed a BS in Biochemistry at the University of New Mexico where I did a senior research project on the impact of uranium mining legacy on root-associated fungal communities of the native grass Bouteloua gracilis. At the University of Arizona, I am pursuing a Master's in Environmental Science under the mentorship of Dr. Betsy Arnold and Dr. Malak Tfaily. I am interested in how fungi participate in the cycling of nutrients in an ecosystem and how these interactions shape the environment. 
         image: assets/img/fellows/Taylor_Portman.jpg       
@@ -57,7 +57,7 @@ sections:
         image: assets/img/fellows/Jes_Szetela.jpg  
       - title: Megan McKendry (she/her)
         bio: I am a doctoral candidate in the University of Arizona’s School of Sociology. I hold a Master of Public Health in Sociomedical Sciences from Columbia University. My research, under the supervision of Dr. Jennifer Croissant explores how "Cultures of Science" can help us to gain insight into interdisciplinary science collaboration and leverage findings to improve student training in STEM.
-        image: assets/img/fellows/megan_mckendry.jpg
+        image: assets/img/fellows/Changpeng_Fan.jpg    
 ---
 
 
