@@ -30,7 +30,7 @@ sections:
       - title: Viviana Freire Zapata (she/her)
         bio: I am a Doctoral student at the Department of Environmental Sciences at University of Arizona
         working with Malak Tfaily, PhD. My research interest focuses on understanding the role of biotic and abiotic interactions on ecosystems as a response to disturbance and/or stress. I am interested on the integration of multi-omics data to analyze the underlying processes on ecosystems such as arid soils, thawing permafrost peatlands and agricultural systems.
-        image: assets/img/fellows/viviana_freire_zapata.
+        image: assets/img/fellows/viviana_freire_zapata.jpeg
       - title: Savannah Fuqua (she/her)
         bio: I received an Environmental Biology degree from Washington University in St Louis where I conducted a senior thesis on the role soil microbes play in mediating plant-pollinator interactions. Since graduating, I have worked primarily with Point Reyes National Seashore Association as a vegetation and restoration ecology intern. This fall I will be joining the University of Arizona’s Ecology and Evolutionary Biology PhD program where I will be co-advised by Judith Bronstein and Rachel Gallery. I plan to continue investigating the role that the belowground microbial community plays in shaping the ecology and evolution of aboveground mutualisms. 
         image: assets/img/fellows/savannah_fuqua.jpg
