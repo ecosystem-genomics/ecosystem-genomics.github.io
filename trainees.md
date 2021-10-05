@@ -24,7 +24,7 @@ sections:
       - title: Meara Clark (she/her)
         bio: I graduated from the University of Arizona in 2016 with a degree in Molecular and Cellular Biology. My first job after college was working as a research technician in the Baltrus Lab and my project studied the role of tailocins in microbe-microbe interactions. Currently, I am pursuing a MS in Natural Resources from the School of Natural Resources and the Environment and work with Dr. Laura Meredith studying the effects of drought on soil microbes. My research interests are focused on discovering the genetic mechanisms behind the complex interactions that exist in a microbial community. Then using that information to understand how these interactions fit into the larger picture of an ecosystem.
         image: assets/img/fellows/Meara_Clark.jpg
-     - title: Changpeng Fan (he/him) 
+      - title: Changpeng Fan (he/him) 
         bio: I am an incoming PhD student in the Department of Hydrology and Atmospheric Science at the University of Arizona, advised by Dr. Yang Song. I am interested in climate and land feedback, focusing on the hydrology cycle, microbial-mediated soil carbon, nutrient cycle, and vegetation dynamics.
         image: assets/img/fellows/Changpeng_Fan.jpg
       - title: Viviana Freire Zapata (she/her)
