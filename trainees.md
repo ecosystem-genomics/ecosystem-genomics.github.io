@@ -24,9 +24,9 @@ sections:
       - title: Meara Clark (she/her)
         bio: I graduated from the University of Arizona in 2016 with a degree in Molecular and Cellular Biology. My first job after college was working as a research technician in the Baltrus Lab and my project studied the role of tailocins in microbe-microbe interactions. Currently, I am pursuing a MS in Natural Resources from the School of Natural Resources and the Environment and work with Dr. Laura Meredith studying the effects of drought on soil microbes. My research interests are focused on discovering the genetic mechanisms behind the complex interactions that exist in a microbial community. Then using that information to understand how these interactions fit into the larger picture of an ecosystem.
         image: assets/img/fellows/Meara_Clark.jpg
-      - title: Jes Szetela
-        bio: My name is Jes Szetela (she/her/hers) and I am so excited to be joining UA this fall! I graduated from the University of New England in 2019 with a B.S. in Environmental Science, and have been bouncing around the country in various field tech positions since then. At UArizona, I will be joining the Department of Ecology and Evolutionary Biology and the Saleska Lab to pursue a PhD. My research interests are focused on understanding how shifts in vegetative communities impact biogeochemical cycling across scales, specifically in the context of climate change.
-        image: assets/img/fellows/Jes_Szetela.jpg
+      - title: Changpeng Fan (he/him) 
+        bio: I am an incoming PhD student in the Department of Hydrology and Atmospheric Science at the University of Arizona, advised by Dr. Yang Song. I am interested in climate and land feedback, focusing on the hydrology cycle, microbial-mediated soil carbon, nutrient cycle, and vegetation dynamics.
+        image: assets/img/fellows/Changpeng_Fan.jpg
       - title: Rebecca Bland
         bio: I'm Rebecca Bland (she/her/hers) from Durham, North Carolina, but am currently finishing up a Master of Forestry and a Master of Arts in Religion at Yale University. I'll be starting a PhD in Ecology and Evolutionary Biology at UArizona with Dr. Katrina Dlugosch in the fall. I am interested in species invasion and rapid evolution, especially in the context of interspecific interaction. After three years being the "science person" in Divinity School, I also have a heart for science communication, and I enjoy making science understandable to diverse audiences.
         image: assets/img/fellows/Rebecca_Bland.jpeg
