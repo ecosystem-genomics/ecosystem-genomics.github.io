@@ -21,7 +21,6 @@ sections:
       - title: Rebecca Bland (she/her) 
         bio: I am from Durham, North Carolina, but recently finished a Master of Forestry and a Master of Arts in Religion at Yale University. I'll be starting a PhD in Ecology and Evolutionary Biology at the University of Arizona with Dr. Katrina Dlugosch this fall. I am interested in species invasion and rapid evolution, especially in the context of interspecific interaction. After three years being the "science person" in Divinity School, I also have a heart for science communication, and I enjoy making science understandable to diverse audiences. 
         image: assets/img/fellows/Rebecca_Bland.jpeg
-        image: assets/img/fellows/Megan_Nickerson.jpg
       - title: Ghiwa Makke
         bio: My name is Ghiwa Makke (she/her/hers). I have a master’s degree in Molecular Biology with an emphasis on microbial genetics for the Lebanese American University. I have been accepted into the Environmental Science PHD program at the University of Arizona for the Fall 2021 term under the supervision of Dr. Malak Tfaily. I am very interested in research involving the interaction between microorganisms and their environment and its impact on the entire biosphere.
         image: assets/img/fellows/Ghiwa_Makke.jpg
