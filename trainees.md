@@ -29,7 +29,7 @@ sections:
         image: assets/img/fellows/Changpeng_Fan.jpg
       - title: Viviana Freire Zapata (she/her)
         bio: I am a Doctoral stuend at the Department of Environmental Sciences at U of A working with Malak Tfaily, PhD. My research interest focuses on understanding the role of biotic and abiotic interactions on ecosystems as a response to disturbance and/or stress. I am interested on the integration of multi-omics data to analyze the underlying processes on ecosystems such as arid soils, thawing permafrost peatlands and agricultural systems.
-        image: assets/img/fellows/Rebecca_Bland.jpeg
+        image: assets/img/fellows/viviana_freire_zapata.jpeg
       - title: Taylor Portman
         bio: Hello, my name is Taylor Portman (she/ her). I am from Albuquerque, NM, and love all things outdoors! I completed my B.S. in biochemistry at the University of New Mexico where I did a senior research project on the impact of uranium mining legacy on root-associated fungal communities of the native grass Bouteloua gracilis. At the University of Arizona, I am pursuing a Master's in Environmental Science under the mentorship of Dr. Betsy Arnold and Dr. Malak Tfaily. I am interested in how fungi participate in the cycling of nutrients in an ecosystem and how these interactions shape the environment.
         image: assets/img/fellows/Taylor_Portman.jpg
