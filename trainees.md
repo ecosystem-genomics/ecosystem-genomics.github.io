@@ -45,15 +45,15 @@ sections:
       - title: Megan Nickerson (she/her)
         bio: I graduated with a  BS in Microbiology and minor in Biochemistry from the University of Arizona Honors College in May. Beginning in Fall 2021, I will be pursuing a PhD in Environmental Science. My BRIDGES NRT program co-advisors will be Dr. Malak Tfaily and Dr. Jana U'Ren. My primary research interest is in the intersection between endophytic fungi and the chemical environment of their hosts. I aim to use genomics and molecular biology to identify the genetic basis for microbial functional traits and then use this knowledge to better understand patterns of microbial community assembly, biodiversity, nutrient cycling, and ecosystem function.
         image: assets/img/fellows/Megan_Nickerson.jpg
-      - title: Taylor Portman (she/her) 
+      - title: Taylor Portman (she/ her) 
         bio: I am from Albuquerque, NM, and love all things outdoors! I completed a BS in Biochemistry at the University of New Mexico where I did a senior research project on the impact of uranium mining legacy on root-associated fungal communities of the native grass Bouteloua gracilis. At the University of Arizona, I am pursuing a Master's in Environmental Science under the mentorship of Dr. Betsy Arnold and Dr. Malak Tfaily. I am interested in how fungi participate in the cycling of nutrients in an ecosystem and how these interactions shape the environment. 
         image: assets/img/fellows/Taylor_Portman.jpg
       - title: Jes Szetela (she/her) 
         bio: I am so excited to be joining the University of Arizona this fall! I graduated from the University of New England in 2019 with a BS in Environmental Science, and have been bouncing around the country in various field tech positions since then. I will be joining the Department of Ecology and Evolutionary Biology and the Saleska Lab to pursue a PhD. My research interests are focused on understanding how shifts in vegetative communities impact biogeochemical cycling across scales, specifically in the context of climate change. 
         image: assets/img/fellows/Jes_Szetela.jpg  
-      - title: ** 2021-2022 NRT Sociology Fellow ** Megan McKendry (she/her)
+      - title: Megan McKendry (she/her)
         bio: I am a doctoral candidate in the University of Arizona’s School of Sociology. I hold a Master of Public Health in Sociomedical Sciences from Columbia University. My research, under the supervision of Dr. Jennifer Croissant explores how "Cultures of Science" can help us to gain insight into interdisciplinary science collaboration and leverage findings to improve student training in STEM.
-        image: assets/img/fellows/megan_mckendry.jpg   
+        image: assets/img/fellows/megan_mckendry.jpg
 ---
 
 
