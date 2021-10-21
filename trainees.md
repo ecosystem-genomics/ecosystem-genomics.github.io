@@ -55,8 +55,7 @@ sections:
         bio: I am so excited to be joining the University of Arizona this fall! I graduated from the University of New England in 2019 with a BS in Environmental Science, and have been bouncing around the country in various field tech positions since then. I will be joining the Department of Ecology and Evolutionary Biology and the Saleska Lab to pursue a PhD. My research interests are focused on understanding how shifts in vegetative communities impact biogeochemical cycling across scales, specifically in the context of climate change.
         image: assets/img/fellows/Jes_Szetela.jpg  
       - title: Megan McKendry (she/her)
-        bio: ## 2021-2022 NRT Sociology Fellow 
-        I am a doctoral candidate in the University of Arizona’s School of Sociology. I hold a Master of Public Health in Sociomedical Sciences from Columbia University. My research, under the supervision of Dr. Jennifer Croissant explores how "Cultures of Science" can help us to gain insight into interdisciplinary science collaboration and leverage findings to improve student training in STEM.
+        bio: I am a doctoral candidate in the University of Arizona’s School of Sociology. I hold a Master of Public Health in Sociomedical Sciences from Columbia University. My research, under the supervision of Dr. Jennifer Croissant explores how "Cultures of Science" can help us to gain insight into interdisciplinary science collaboration and leverage findings to improve student training in STEM.
         image: assets/img/fellows/megan_mckendry.jpg
 ---
 
