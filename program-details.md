@@ -18,6 +18,7 @@ sections:
 #  text_style: text-left text-white
   text:
     We are committed to building an inclusive and equitable training and research environment that supports a diverse cohort of trainees, faculty, and partners. We strongly encourage and welcome applications from candidates representing all forms of diversity.
+
     
     We respectfully acknowledge the University of Arizona is on the land and territories of Indigenous peoples. Today, Arizona is home to 22 federally recognized tribes, with Tucson being home to the O'odham and the Yaqui. Committed to diversity and inclusion, the University strives to build sustainable relationships with sovereign Native Nations and Indigenous communities through education offerings, partnerships, and community service.
   image: 'assets/img/portfolio/thumbnails/young-people-putting-their-hands-together-UBC4Q32.jpg'

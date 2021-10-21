@@ -220,5 +220,9 @@ sections:
       icon: fa-twitter
       icon_type: fab
       url: https://twitter.com/UAZbridges
+    - title: LinkedIn
+      icon: fa-linkedin
+      icon_type: fab
+      url: https://www.linkedin.com/company/bridgesnrt
 
 ---
