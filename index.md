@@ -3,7 +3,7 @@ layout: home
 header:
   title: Welcome to BRIDGES
   text: >+
-     Building Resources for InterDisciplinary training in Genomic and Ecosystem Sciences (BRIDGES) is an NSF-funded training program to support outstanding, diverse students in pursuing graduate degrees (MS, PhD) in ecosystem genomics. We offer fellowships for students to pursue their research in a program enriched by professional training, internships, a certificate and a minor, and mentorship opportunities.
+    Building Resources for InterDisciplinary training in Genomic and Ecosystem Sciences (BRIDGES) is an NSF-funded training program that supports outstanding graduate students (MS, PhD) who bring diverse perspectives in pursuing graduate degrees in ecosystem genomics. BRIDGES trainees pursue their degrees in a program enriched by professional training, research experiences, a certificate and minor, and mentorship opportunities. Fellowships available.
   action: # action button is optional
     label: Learn More
     url: '#about'
