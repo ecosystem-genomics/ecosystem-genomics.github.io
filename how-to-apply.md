@@ -29,7 +29,7 @@ sections:
   actions:
   - title: View Eligible Degree Programs
     url: '/#services'
-    class: btn-light
+    class: btn-primary
 
 - type: paragraph.html
   section_id: before-applying
@@ -57,7 +57,6 @@ sections:
   actions:
   - title: Apply Now
     url: 'https://uarizona.co1.qualtrics.com/jfe/form/SV_3rzrXAkX112BT6K'
-    class: btn-light
-
+    class: btn-primary
 
 ---
