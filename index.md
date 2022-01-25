@@ -12,7 +12,7 @@ header:
 sections:
   - type: call-to-action.html
     section_id: about
-    background_style: bg-primary
+    background_style: bg-info
     title: Why Ecosystem Genomics?
     text: 
       Ecosystem genomics brings together the tools of ecosystem and genomic sciences to understand how processes encoded for in genes scale to the ecosystem scale. By scaling from the gene to ecosystem scale we can understand how wild and agricultural systems function and respond to change.
