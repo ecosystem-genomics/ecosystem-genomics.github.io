@@ -17,7 +17,7 @@ sections:
     fellows:
       - title: Pablo Arán Sekul (he/him)
         bio: Born and raised in Antofagasta, Chile, I have dedicated all my university and work in the area of Microbiology and Microbial Ecology in extreme environments, specifically in the Atacama Desert, the desert where I grew up. My interest has always been to determine what microorganisms are in a specific environment and how they can survive harsh life conditions (for humans) using molecular and bioinformatics tools. I consider myself a lover of the desert and its secrets. I am a first-year Ecology and Evolutionary Biology PhD student.
-        image: assets/img/fellows/pablo_aran_sekul.jpg
+        image: assets/img/fellows/pablo_aran_sekul.png
       - title: Christian Ayala Ortiz (he/him)
         bio: I began working on my PhD in Environmental Science in January 2021, under the supervision of Dr. Malak Tfaily. My current research interests include the use of multi-omics data to study the interaction between the environment and the microbial communities, and how it affects carbon and nutrient cycling. I am especially interested in the development of data analysis pipelines that allows to take full advantage of the available high throughput data.
         image: assets/img/fellows/christian_ayala_ortiz.jpeg
