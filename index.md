@@ -3,7 +3,7 @@ layout: home
 header:
   title: Welcome to BRIDGES
   text: >+
-    Building Resources for InterDisciplinary training in Genomic and Ecosystem Sciences (BRIDGES) is an NSF-funded training program that supports outstanding graduate students (MS, PhD) who bring diverse perspectives in pursuing graduate degrees in ecosystem genomics. BRIDGES trainees pursue their degrees in a program enriched by professional training, research experiences, a certificate and minor, and mentorship opportunities. Fellowships available.
+    <bold>Building Resources for InterDisciplinary training in Genomic and Ecosystem Sciences</bold> (BRIDGES) is an NSF-funded training program that supports outstanding graduate students (MS, PhD) who bring diverse perspectives in pursuing graduate degrees in ecosystem genomics. BRIDGES trainees pursue their degrees in a program enriched by professional training, research experiences, a certificate and minor, and mentorship opportunities. Fellowships available.
   action: # action button is optional
     label: Learn More
     url: '#about'
@@ -15,10 +15,10 @@ sections:
     background_style: bg-info
     title: Why Ecosystem Genomics?
     text: 
-      Ecosystem genomics brings together the tools of ecosystem and genomic sciences to understand how processes encoded for in genes scale to the ecosystem scale. By scaling from the gene to ecosystem scale we can understand how wild and agricultural systems function and respond to change.
+      The BRIDGES program was developed from the Ecosystem Genomics Initiative (EGI) which seeks to to understand how processes encoded for in genes scale to the ecosystem scale. By scaling from the gene to ecosystem scale we can understand how wild and agricultural systems function and respond to change. 
     actions:
-      - title: Participating Programs
-        url: '/#services'
+      - title: EGI Seminar Series
+        url: 'https://ecosystemgenomics.github.io/egi.arizona.edu/#seminars'
         class: btn-light
     text2: >+
       For additional information on BRIDGES, visit the Program Elements tab or click here:
