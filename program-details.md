@@ -79,7 +79,7 @@ sections:
 #  background_style: bg-info
 #  text_style: text-left text-white
   text: >+ 
-    NRT trainees will receive training in professional leadership and communication at a half-day, engagement-style workshop led each year by university and partner leaders. NRT trainees will also participate twice per semester in active-learning, 2-hr seminars led by key NRT faculty.
+    NRT trainees will receive training in professional leadership and communication from NRT faculty, university, and partner leaders in the Ecosystem Genomics Seminar, hour-long talks, and engagement-style workshops.
   image: 'assets/img/portfolio/thumbnails/professional-development.jpg'
   img_description: >+
     A male PhD student works on equipment high above the Amazon rainforest. Photo credit: Jake Bryant
