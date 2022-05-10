@@ -62,8 +62,8 @@ sections:
         bio: I'm from a small country in South Asia called Bangladesh. I majored in Biochemistry and Molecular Biology from the University of Dhaka. I am currently pusuing a PhD in the School of Plant Sciences under the supervision of Dr. Rod A. Wing. My broad research interest is evolutionary biology.
         image: assets/img/fellows/alam.png
       - title: Neda Arad (she/her)
-        bio: 
-        image: assets/img/fellows/missing.png
+        bio: I graduated from the University of Arizona in 2022 with a master’s degree in Plant Sciences. I am currently pursuing my Ph.D. in the School of Plant Sciences under the supervision of Professor Arnold. My research interest is in how regional, landscape and local factors affect ecosystem services. I see myself as an enthusiastic researcher, always looking for scientific challenges. My passion as a researcher comes from a life-long obsession with learning new things. There is nothing more beautiful than education in my life, and I think this is how we can change the world into a better place to live. 
+        image: assets/img/fellows/arad.png
       - title: Clay	Christenson (he/him)
         bio: I am from Overland Park, Kansas, but graduated from the University of Nebraska-Lincoln with a degree in plant biology and mathematics. This fall I will be joining the University of Arizona's School of Plant Sciences PhD program, where I will be advised by Dr. Duke Pauli. My research focus is in modeling systems and developing new sensor technology. While at the University of Arizona, I hope to continue to investigate and develop models for plant-environment interactions. 
         image: assets/img/fellows/christenson.png
