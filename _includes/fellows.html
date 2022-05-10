@@ -16,21 +16,52 @@ This is a custom template to display the fellows information. Include in main te
   --->
 <section class="page-section {{ section.background_style }}" id="{{ section.section_id }}">
   <div class="container">
-    <br>
-      {% for fellows in section.fellows %}
-      <div class="row">
-        <div class="col-md-4 text-center">
+    <ul class="nav nav-tabs" id="myTab" role="tablist">
+      <li class="nav-item">
+        <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">2022 Cohort</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">2021 Cohort</a>
+      </li>
+    </ul>
+    <div class="tab-content" id="myTabContent">
+      <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+        {% for fellows in section.fellows2022 %}
+        <div class="row">
+          <div class="col-md-4 text-center">
+            <div class="member-box">
+              <img class="img-fluid" src="{{ fellows.image }}" style="height:200px width:200px"/>
+              <h3 class="h4 mb-2 mt-2">{{ fellows.title | newline_to_br | markdownify }}</h3>   
+          </div>
+        </div>
+          <div class="col-sm-8 align-middle">
+              <br>
+              <p> {{ fellows.bio | newline_to_br | markdownify }} </p>
+          </div>
+        </div>
+        <br>
+      {% endfor %}
+        
+      </div>
+      <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+        {% for fellows in section.fellows2021 %}
+        <div class="row">
+          <div class="col-md-4 text-center">
           <div class="member-box">
-            <img class="img-fluid" src="{{ fellows.image }}" style="height:200px width:200px"/>
-            <h3 class="h4 mb-2">{{ fellows.title | newline_to_br | markdownify }}</h3>   
+              <img class="img-fluid" src="{{ fellows.image }}" style="height:200px width:200px"/>
+              <h3 class="h4 mb-2 mt-2">{{ fellows.title | newline_to_br | markdownify }}</h3>   
+          </div>
         </div>
-      </div>
-        <div class="col-sm-8 align-middle">
-            <br>
-            <p> {{ fellows.bio | newline_to_br | markdownify }} </p>
+          <div class="col-sm-8 align-middle">
+              <br>
+              <p> {{ fellows.bio | newline_to_br | markdownify }} </p>
+          </div>
         </div>
+        <br>
+      {% endfor %}
       </div>
-      <br>
-    {% endfor %}
+    </div>
+    <br>
+    
   </div>
 </section>

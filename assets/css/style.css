@@ -2,3 +2,7 @@
 ---
 
 @import "";
+
+a#profile-tab {
+    color: white !important;
+}

@@ -23,3 +23,5 @@ exclude:
   - README.md
 #Google Analytisc
 google_analytics: G-NPQZRDNS4Z
+
+#run on M1: bundle exec jekyll serve
