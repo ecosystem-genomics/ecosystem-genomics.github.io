@@ -71,8 +71,8 @@ sections:
         bio: I am a Masters student in the School of Natural Resources working under Dr. Rachel Gallery. I have a background working in federal land management with the Bureau of Land Management and National Park Service. I am broadly interested in the ways in which land use and land management activities influence microbial community composition. My current research explores how soil microbial community composition and function change in response to altered precipitation regimes and drought.
         image: assets/img/fellows/freidman.png
       - title: Matthew Spaeth (he/him)
-        bio: 
-        image: assets/img/fellows/missing.png
+        bio: I graduated from University of California, Merced in 2018 with a bachelor's degree in Biological Sciences and an emphasis in Ecology and Evolutionary Biology. I have since been employed as a vegetation management/monitoring technician at Point Reyes National Seashore Association where I have been involved in habitat restoration and plant community monitoring. Having spent the last four years restoring disrupted ecosystems, I am excited to pursue a master's degree in Natural Resources from the School of Natural Resources and the Environment to better understand the impacts of plant invasion on above and below ground plant-microbe communities. I hope to produce research that improves current land management efforts. I have the honor of being co-advised by Drs. Elise Gornish and Albert Barberán. I'm grateful to be here and excited for the opportunities to come!
+        image: assets/img/fellows/spaeth.png
       - title: Phoenix Spivey (she/her)
         bio: I am from Louisburg, North Carolina, where my interest in all things environmental developed. In May 2020, I earned a BS in Environmental Science at North Carolina State University. At the University of Arizona, I am pursuing a MS in Natural Resources under the mentorship of Dr. Laura Meredith. I am interested in biomonitoring techniques to improve and support biogeochemical cycles, ecosystem health, sustainable/equitable infrastructure, and community resilience.  
         image: assets/img/fellows/spivey.png
