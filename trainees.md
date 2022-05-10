@@ -74,8 +74,8 @@ sections:
         bio: 
         image: assets/img/fellows/missing.png
       - title: Phoenix Spivey (she/her)
-        bio: 
-        image: assets/img/fellows/missing.png
+        bio: I am from Louisburg, North Carolina, where my interest in all things environmental developed. In May 2020, I earned a BS in Environmental Science at North Carolina State University. At the University of Arizona, I am pursuing a MS in Natural Resources under the mentorship of Dr. Laura Meredith. I am interested in biomonitoring techniques to improve and support biogeochemical cycles, ecosystem health, sustainable/equitable infrastructure, and community resilience.  
+        image: assets/img/fellows/spivey.png
       - title: Sabrina	Wilson (she/her)
         bio: I am from southeast New Mexico and have a BS in Astrophysics and Chemistry from Northern Arizona University. I enjoy hiking, mountain biking, and tending to my native pollinator garden. Beginning in Fall 2022, I will be pursuing a Master’s in Atmospheric Science under the mentorship of Dr. Yang Song. My research interests include human-ecosystem interactions and climate-land feedback, focusing on microbial mediation and carbon sequestration and how these interactions shape our environment on a larger scale.
         image: assets/img/fellows/wilson.png
