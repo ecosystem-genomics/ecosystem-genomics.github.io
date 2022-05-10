@@ -27,14 +27,14 @@ This is a custom template to display the fellows information. Include in main te
     <div class="tab-content" id="myTabContent">
       <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
         {% for fellows in section.fellows2022 %}
-        <div class="row">
+        <div class="row h-100">
           <div class="col-md-4 text-center">
             <div class="member-box">
               <img class="img-fluid" src="{{ fellows.image }}" style="height:200px width:200px"/>
               <h3 class="h4 mb-2 mt-2">{{ fellows.title | newline_to_br | markdownify }}</h3>   
           </div>
         </div>
-          <div class="col-sm-8 align-middle">
+          <div class="my-auto col-sm-8 align-middle">
               <br>
               <p> {{ fellows.bio | newline_to_br | markdownify }} </p>
           </div>
@@ -45,14 +45,14 @@ This is a custom template to display the fellows information. Include in main te
       </div>
       <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
         {% for fellows in section.fellows2021 %}
-        <div class="row">
+        <div class="row h-100">
           <div class="col-md-4 text-center">
           <div class="member-box">
               <img class="img-fluid" src="{{ fellows.image }}" style="height:200px width:200px"/>
               <h3 class="h4 mb-2 mt-2">{{ fellows.title | newline_to_br | markdownify }}</h3>   
           </div>
         </div>
-          <div class="col-sm-8 align-middle">
+          <div class="my-auto col-sm-8 align-middle">
               <br>
               <p> {{ fellows.bio | newline_to_br | markdownify }} </p>
           </div>

@@ -10,6 +10,9 @@
         </div>
         <div class="my-auto col-md-6 {{ section.text_style | default: "text-muted" }}" >
         {{ section.text | newline_to_br | markdownify }}
+        <div class="text-center">
+        <a class="mt-3 btn btn-primary" target="_blank" href="{{ section.button_link}}" role="button">{{ section.button_text}}</a>
+      </div>
 
         </div>
     </div>

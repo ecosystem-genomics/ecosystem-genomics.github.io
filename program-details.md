@@ -84,7 +84,7 @@ sections:
   img_description: >+
     A male PhD student works on equipment high above the Amazon rainforest. Photo credit: Jake Bryant
 
-- type: picture-paragraph.html
+- type: picture-paragraph-button.html
   section_id: convergence-institute
   title: Convergence Institute
 #  background_style: bg-info
@@ -94,6 +94,8 @@ sections:
   image: 'assets/img/portfolio/thumbnails/bio5-conference.jpg'
   img_description: >+
     A group of students and faculty watch a male researcher presenting in a conference room. Photo credit: BIO5 Institute
+  button_text: 2022 Convergence Institute Agenda
+  button_link: https://docs.google.com/document/d/1yyDSZDQ-TpdRRkkfktPm2sWqXNnb0i0q/edit
 
 
 
