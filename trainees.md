@@ -70,7 +70,7 @@ sections:
       - title: Liam Roberts (he/him)
         bio: I am from Manchester, England, I completed my undergrad in Zoology and my Masters-by-Research in molecular ecology at the University of Salford Manchester. I moved to the US three years ago to be with my wife. I will be joining the University of Arizona's EIS program this year to complete my PhD and will be advised by Luciano Matzkin. My research interests are more focused on evolutionary biology and behavioral ecology. In particular I am most interested in understanding the function of adaptive traits and the evolutionary history of different organisms. 
         image: assets/img/fellows/roberts.png
-      - title: Matthew Spaeth (he/him)
+      - title: Michael Spaeth (he/him)
         bio: I graduated from University of California, Merced in 2018 with a bachelor's degree in Biological Sciences and an emphasis in Ecology and Evolutionary Biology. I have since been employed as a vegetation management/monitoring technician at Point Reyes National Seashore Association where I have been involved in habitat restoration and plant community monitoring. Having spent the last four years restoring disrupted ecosystems, I am excited to pursue a master's degree in Natural Resources from the School of Natural Resources and the Environment to better understand the impacts of plant invasion on above and below ground plant-microbe communities. I hope to produce research that improves current land management efforts. I have the honor of being co-advised by Drs. Elise Gornish and Albert Barberán. I'm grateful to be here and excited for the opportunities to come!
         image: assets/img/fellows/spaeth.png
       - title: Phoenix Spivey (she/her)
