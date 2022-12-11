@@ -26,7 +26,7 @@ sections:
       - question: What costs are covered by BRIDGES fellowship funding?BRIDGES fellowship for funding?
         answer: The fellowship provides a $34,000 annual living stipend for up to two years, and during this time also covers tuition and mandatory university fees, with an option for student-only health insurance for those not otherwise covered. A limited amount of additional funding is available for publication page charges, student project implementation costs, and/or travel and expenses for remote research experiences. 
       - question: What is the timeline from application to acceptance?
-        answer: Applications are due December 3, 2021 and the first review begins in mid-December. Second reviews and interviews occur in January and February. New applications will be considered as long as there are still spaces and funding available. 
+        answer: Application review will begin December 10, 2022 and will continue until the program is filled.
       - question: How large are the trainee cohorts?
         answer: Trainee cohorts will range in size, but will be between 12 and 15 graduate students. Of those, 6-8 will be funded  by NRT fellowships. 
       - question: What is Ecosystem Genomics?
