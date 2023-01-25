@@ -45,7 +45,7 @@ sections:
 #  background_style: bg-info
 #  text_style: text-left text-white
   text: >+
-    Fill out an application by clicking the Apply Now button below. The application includes a ½-to-1 page statement of interest in the BRIDGES program plus a 1-2 page statement of your research interests, a CV or resume, and transcripts (unofficial transcripts are acceptable). Applications for fellowship funding received by December 9, 2022 will have priority, but we will also consider applications on a rolling basis through February 27th.
+    Application review will begin December 10, 2022 and will continue until the program is filled.
 
 - type: paragraph.html
   section_id: contact info
