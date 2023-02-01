@@ -63,7 +63,7 @@ sections:
         image: assets/img/fellows/alam.png
       - title: Neda Arad (she/her)
         bio: I graduated from the University of Arizona in 2022 with a master’s degree in Plant Sciences. I am currently pursuing my Ph.D. in the School of Plant Sciences under the supervision of Professor Arnold. My research interest is in how regional, landscape and local factors affect ecosystem services. I see myself as an enthusiastic researcher, always looking for scientific challenges. My passion as a researcher comes from a life-long obsession with learning new things. There is nothing more beautiful than education in my life, and I think this is how we can change the world into a better place to live. 
-        image: assets/img/fellows/arad.png
+        image: assets/img/fellows/arad.jpeg
       - title: Harrison Friedman (he/him)
         bio: I am a Masters student in the School of Natural Resources working under Dr. Rachel Gallery. I have a background working in federal land management with the Bureau of Land Management and National Park Service. I am broadly interested in the ways in which land use and land management activities influence microbial community composition. My current research explores how soil microbial community composition and function change in response to altered precipitation regimes and drought.
         image: assets/img/fellows/freidman.png
