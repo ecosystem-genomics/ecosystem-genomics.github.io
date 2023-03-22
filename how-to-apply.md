@@ -13,7 +13,7 @@ sections:
 
 - type: paragraph.html
   section_id: notice
-  title: 
+  title: No Longer Accepting Fellowship Applications
 #  background_style: bg-info
 #  text_style: text-left text-white
   text: >+
