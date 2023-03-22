@@ -12,6 +12,14 @@ menus:
 sections:
 
 - type: paragraph.html
+  section_id: notice
+  title: 
+#  background_style: bg-info
+#  text_style: text-left text-white
+  text: >+
+    We are no longer accepting applications for fellowships. We welcome applicants from those interested in applying as a participants. Participants are trainees who are funded through a non-BRIDGES source (department support, scholarship, grant, TAship, etc.)
+
+- type: paragraph.html
   section_id: overview
   title: Overview
 #  background_style: bg-info
@@ -45,7 +53,7 @@ sections:
 #  background_style: bg-info
 #  text_style: text-left text-white
   text: >+
-    Application review will begin December 10, 2022 and will continue until the program is filled.
+    We are no longer accepting applications for fellowships. We welcome applicants from those interested in applying as a participants. Participants are trainees who are funded through a non-BRIDGES source (department support, scholarship, grant, TAship, etc.) | Application review will begin December 10, 2022 and will continue until the program is filled.
 
 - type: paragraph.html
   section_id: contact info
