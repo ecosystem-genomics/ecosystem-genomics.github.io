@@ -15,7 +15,7 @@ sections:
     background_style: bg-info
     title: Why Ecosystem Genomics?
     text: 
-      The BRIDGES program was developed from the Ecosystem Genomics Initiative (EGI) which seeks to to understand how processes encoded for in genes scale to the ecosystem scale. By scaling from the gene to ecosystem scale we can understand how wild and agricultural systems function and respond to change. 
+      The BRIDGES program was developed from the Ecosystem Genomics Initiative (EGI) which seeks to understand how processes encoded for in genes scale to the ecosystem scale. By scaling from the gene to ecosystem scale we can understand how wild and agricultural systems function and respond to change. 
     actions:
       - title: EGI Seminar Series
         url: 'https://ecosystemgenomics.github.io/egi.arizona.edu/seminar.html'
