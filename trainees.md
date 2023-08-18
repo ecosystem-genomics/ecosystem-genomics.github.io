@@ -101,6 +101,9 @@ sections:
       - title: Kieryn Zizzo (she/her)
         bio: I was born in Tucson and have lived most of my life in Vail, Arizona. I have always loved plants, but my passion for fungal plant pathology began when working in a Plant Pathology lab. I am currently a MS student in the Plant Pathology department advised by Dr. Betsy Arnold. My research will focus on lettuce endophytes and Fusarium wilt of lettuce.
         image: assets/img/fellows/kieryn.jpeg
+      - title: Christine Beach (she/her)
+        bio: I am a doctoral candidate in the University of Arizona&#39;s Higher Education department. I hold a BA in Spanish from Loyola Medical Center and a MEd in Bilingual and Multicultural Education from Northern Arizona University. My current research explores how race, ethnicity, and country of origin impact graduate medical student experiences in the US academic medical center, specifically, how academics, health and well-being, and the learning environment itself are shaped through the prism of Western medicine. I will approach my BRIDGES fellowship research, led by Dr. Jennifer Croissant, through the lens of equity, inclusivity , and diversity as well as interrogate the learning environment from a critical perspective.
+        image: assets/img/fellows/christine.png
 
 ---
 
