@@ -79,6 +79,28 @@ sections:
       - title: Sabrina	Wilson (she/her)
         bio: I am from southeast New Mexico and have a BS in Astrophysics and Chemistry from Northern Arizona University. I enjoy hiking, mountain biking, and tending to my native pollinator garden. Beginning in Fall 2022, I will be pursuing a Master’s in Atmospheric Science under the mentorship of Dr. Yang Song. My research interests include human-ecosystem interactions and climate-land feedback, focusing on microbial mediation and carbon sequestration and how these interactions shape our environment on a larger scale.
         image: assets/img/fellows/wilson.png
+    fellows2023:
+      - title: Jhon del Aguila Pascal(he/him)
+        bio: I am a Peruvian PhD student in Environmental Science at the University of Arizona. My advisors are Scott Saleska and Malak Tfaily. I am interested on the application of molecular techniques (e.g. metagenomics and metabolomics) to study the microbial ecology of methane cycle dynamics in tropical wetlands. 
+        image: assets/img/fellows/jhon.jpeg
+      - title: Erica Cortez (she/her)
+        bio: I'm a LA native with a Biology BA, specializing in Cell and Molecular Biology, with a minor in Latino/a Latin American Studies. I am joining the Arizona Biological and Biomedical Sciences (ABBS) Program PhD program, then transitioning to Plant Sciences at the University of Arizona. My research interest is in microbial communities and their adaptive strategies towards environmental stressors. 
+        image: assets/img/fellows/erica.jpg
+      - title: Griffin Davis (she/her)
+        bio: I recently graduated from ASU with a BS in Earth and Space Exploration BS, concentrated on geological sciences. My interests lie within fungal symbiosis and parasitic relationships within the realms of mycology, bryology, and lichenology. I am pursuing a Plant Pathology MS under Dr. Betsy Arnold, testing how environmental variables at multiple scales influence distributions of sexual and asexual stages of fungi.
+        image: assets/img/fellows/griffin.jpg
+      - title: Michael Mustri (he/him)
+        bio: I grew up in Mexico City where I earned a BS in Physics. I recently completed an Ecology, Evolution, and Conservation MS in London and am now starting an EEB PhD advised by Dr. Saleska. My research interests revolve around how ecosystems are shaped by the interactions between organisms and their environment, and how to best capture these complex relationships within a unified mathematical framework. 
+        image: assets/img/fellows/michael.jpeg
+      - title: Poppy Northing(she/her)
+        bio: I am from San Francisco where I earned my B.S. in Biology and Environmental Studies. Recently, I worked as a laboratory technician at UC Berkeley. I am join the Ecology and Evolutionary Biology PhD program, advised by Dr. Katrina Dlugosch. I plan to leverage genomics to investigate how wild plant communities are responding to novel environmental conditions caused by anthropogenic change.
+        image: assets/img/fellows/poppy.jpg
+      - title: Caitlin Tribelhorn (she/her)
+        bio: I graduated from UC San Diego with a B.S. in Marine Biology and a minor in Chemistry. I am now pursuing a Environmental Science PhD, advised by Dr. Paul Carini. My primary research interest is connecting microorganisms, specifically archaea, to biogeochemical cycles that mediate the Earth's climate 
+        image: assets/img/fellows/caitlin.jpeg
+      - title: Kieryn Zizzo (she/her)
+        bio: I was born in Tucson and have lived most of my life in Vail, Arizona. I have always loved plants, but my passion for fungal plant pathology began when working in a Plant Pathology lab. I am currently a MS student in the Plant Pathology department advised by Dr. Betsy Arnold. My research will focus on lettuce endophytes and Fusarium wilt of lettuce.
+        image: assets/img/fellows/kieryn.jpeg
 
 ---
 
